@@ -76,7 +76,6 @@ Los buenos tiempos nunca duran para siempre y los malos tiempos tienen que ser i
 + [Why I Believe in others - Viktor Frankl](https://www.ted.com/talks/viktor_frankl_why_believe_in_others)
 + [Madball - Adapt And Overcome](https://www.youtube.com/watch?v=mcu7oX4ygV4)
 + [What Zen Acceptance and Non Attachment Really are](https://zenstudiespodcast.com/zenacceptance/)
-
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -112,9 +111,11 @@ this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your pag
 */
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = 'https://https-petesect18-github-io-blog.disqus.com/embed.js';
+s.src = 'https://petesect18-github-io-notas.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<script id="dsq-count-scr" src="//petesect18-github-io-notas.disqus.com/count.js" async></script>              

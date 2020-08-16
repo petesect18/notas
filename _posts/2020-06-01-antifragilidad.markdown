@@ -121,8 +121,6 @@ Degradar el valor de las posesiones materiales, no ser esclavo de ellas y robust
 + [Premeditation Mallorum](https://dailystoic.com/premeditatio-malorum/)
 + [Weu Wei](https://en.wikipedia.org/wiki/Wu_wei)
 
-
-
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -158,9 +156,11 @@ this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your pag
 */
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = 'https://https-petesect18-github-io-blog.disqus.com/embed.js';
+s.src = 'https://petesect18-github-io-notas.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<script id="dsq-count-scr" src="//petesect18-github-io-notas.disqus.com/count.js" async></script>              
