@@ -15,7 +15,7 @@ Y con esto no estoy basándome en ningún estereotipo de "Éxito" impuesto por l
 
 Muchas veces no la escuchamos porque estamos muy ocupados viendo netflix, pegados al celular, distraídos en dramas (personales o ajenos y esas 24 horas se convierten en años, los años en décadas - algunos, tienen la suerte de poder enmendar ese error en sus últimos años y se enfocan en su llamado, otros no tienen esa suerte y la muerte llega diciendo que te dio la oportunidad pero preferiste "scrollear el feed para ver que había", "viendo el ultimo meme de gatos" o "quedarte sentado en el sillón viendo las ultimas noticias del mundo".
 
-![TV](https://github.com/petesect18/notas/assets/skeletor.jpg)
+![TV](https://petesect18.github.io/notas/assets/skeletor.jpg)
 
 ### Matando el Comfort ###
 
@@ -65,7 +65,7 @@ Nuestro trabajo principal debe ser encontrar esa fuerza interior trabajarla todo
 
 ### Fragmentos de "The Iron And The Soul - Henry Rollins" ###
 
-![Rollins](https://github.com/petesect18/notas/assets/rollins.jpg)
+![Rollins](https://petesect18.github.io/notas/assets/rollins.jpg)
 
 > *"The Iron never lies to you. You can walk outside and listen to all kinds of talk, get told that you’re a god or a total bastard. The Iron will always kick you the real deal. The Iron is the great reference point, the all-knowing perspective giver. Always there like a beacon in the pitch black. I have found the Iron to be my greatest friend. It never freaks out on me, never runs. Friends may come and go. But two hundred pounds is always two hundred pounds."*
 
