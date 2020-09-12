@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Habitos"
+title:  "Hábitos"
 date:   2020-09-14 07:30:00 -0500
 categories: life
 comments: true
