@@ -52,10 +52,10 @@ Como decia Bukowski *"Find what you love and let it kill you"*
 
 
 #### Mas información ####
-> + [Marginal Gains](https://jamesclear.com/marginal-gains
+> + [Marginal Gains] (https://jamesclear.com/marginal-gains
 + [Feedback Loop From Hell](https://markmanson.net/feedback-loop-from-hell)
 + [Kaizen](https://en.wikipedia.org/wiki/Kaizen)
-+ [Discipline Equals Freedom](https://www.amazon.com/Discipline-Equals-Freedom-Field-Manual-ebook/dp/B06XB9HQMN
++ [Discipline Equals Freedom] (https://www.amazon.com/Discipline-Equals-Freedom-Field-Manual-ebook/dp/B06XB9HQMN
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
