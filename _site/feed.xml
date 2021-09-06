@@ -1,185 +1,962 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-03T19:43:13-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><author><name>GitHub User</name><email>your-email@domain.com</email></author><entry><title type="html">My Example Post</title><link href="http://localhost:4000/2016/05/20/my-example-post.html" rel="alternate" type="text/html" title="My Example Post" /><published>2016-05-20T00:00:00-05:00</published><updated>2016-05-20T00:00:00-05:00</updated><id>http://localhost:4000/2016/05/20/my-example-post</id><content type="html" xml:base="http://localhost:4000/2016/05/20/my-example-post.html">&lt;p&gt;Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-09-06T10:32:39-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Notas</title><subtitle>Proyectos y Escritos
+</subtitle><author><name>Pedro</name></author><entry><title type="html">La Sombra</title><link href="http://localhost:4000/life/2021/08/06/2021-lasombra.html" rel="alternate" type="text/html" title="La Sombra" /><published>2021-08-06T07:09:00-05:00</published><updated>2021-08-06T07:09:00-05:00</updated><id>http://localhost:4000/life/2021/08/06/2021-lasombra</id><content type="html" xml:base="http://localhost:4000/life/2021/08/06/2021-lasombra.html">&lt;p&gt;Tienes una idea general de cuales son tus creencias, valores y opiniones?
+Tienes un codigo personal que decides seguir y que dicta si eres una “buena” o “mala” persona?&lt;/p&gt;
 
-&lt;p&gt;No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.&lt;/p&gt;</content><author><name>GitHub User</name><email>your-email@domain.com</email></author><summary type="html">Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto</summary></entry><entry><title type="html">Some articles are just so long they deserve a really long title to see if things will break well</title><link href="http://localhost:4000/misc/2016/05/20/super-long-article.html" rel="alternate" type="text/html" title="Some articles are just so long they deserve a really long title to see if things will break well" /><published>2016-05-20T00:00:00-05:00</published><updated>2016-05-20T00:00:00-05:00</updated><id>http://localhost:4000/misc/2016/05/20/super-long-article</id><content type="html" xml:base="http://localhost:4000/misc/2016/05/20/super-long-article.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius intean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+&lt;p&gt;Te sorprendes cuando actuas en contra de ese librito personal que tienes y entras en conflicto contigo mismo? - sin darte cuenta que esa persona tambien eres tu inventas un cuento en donde por lo general el malo son los demas.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+&lt;p&gt;La mayor parte del tiempo tratamos de mostrarle al mundo la cara “buena” de nuestra personalidad lo cual no es inherentemente negativo pero nos olvidamos de una parte importante de nuestro ser que al estar enfocados en enseñar lo que nuestros padres, maestros y guias en la juventud forjaron para que pudieramos vivir en sociedad olvidamos que tenemos y nisiquiera consideramos.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;</content><author><name>GitHub User</name><email>your-email@domain.com</email></author><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius intean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</summary></entry><entry><title type="html">This post demonstrates post content styles</title><link href="http://localhost:4000/junk/2016/05/20/this-post-demonstrates-post-content-styles.html" rel="alternate" type="text/html" title="This post demonstrates post content styles" /><published>2016-05-20T00:00:00-05:00</published><updated>2016-05-20T00:00:00-05:00</updated><id>http://localhost:4000/junk/2016/05/20/this-post-demonstrates-post-content-styles</id><content type="html" xml:base="http://localhost:4000/junk/2016/05/20/this-post-demonstrates-post-content-styles.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.&lt;/p&gt;
+&lt;p&gt;Carl Jung se refiere a esa parte como “La Sombra” y en lo personal me gusto la definicion que le dio (aunque la ciencia y los estudios modernos han desacreditado mucho de lo que Jung “vendia”) considero importante notar que esto no es un ensayo en psicologia Jungiana (si es que esa palabra existe), es mas orientado a hacernos pensar sobre esa parte de nuestra personalidad de la cual no estamos conscientes(&lt;em&gt;o queremos ignorar&lt;/em&gt;)&lt;/p&gt;
 
-&lt;h2 id=&quot;some-great-heading-h2&quot;&gt;Some great heading (h2)&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://sursock.museum/sites/default/files/styles/full_original/public/header-shadow-learning.jpg?itok=t42RJQKF&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.&lt;/p&gt;
+&lt;h2 id=&quot;conciencia-de-ti-mismo&quot;&gt;Conciencia de ti mismo&lt;/h2&gt;
 
-&lt;p&gt;Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+&lt;p&gt;Ser capaz de verte a ti mismo en una luz objetiva, como si fueras un espectador, cuestionar esas ideas que tienes sobre tu personalidad (si eres de una u otra manera) y como &lt;strong&gt;los demas&lt;/strong&gt; ven esas virtudes o defectos es importante si queremos entender nuestro lado negativo.&lt;/p&gt;
 
-&lt;h2 id=&quot;another-great-heading-h2&quot;&gt;Another great heading (h2)&lt;/h2&gt;
+&lt;p&gt;Y lo digo asi porque todos los seres humanos por mas placentera que haya sido nuestra vida tenemos comportamientos negativos - que podemos definir como una forma de comportarnos que nos afecte de una mala manera a nosotros o a los demas directa o indirectamente.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.&lt;/p&gt;
+&lt;p&gt;En el conocimiento de ti mismo existen dos aristas, la interna y la externa, esto no es &lt;strong&gt;una sola verdad&lt;/strong&gt;, es un balance entre dos puntos de vista que a veces son conflictivos (&lt;em&gt;crees que eres extrovertido o elocuente, pero los demas te ven alguien sediento de atencion&lt;/em&gt;).&lt;/p&gt;
 
-&lt;h3 id=&quot;some-great-subheading-h3&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
+&lt;p&gt;En mi articulo anterior de modelos mentales escribi sobre el circulo de competencia, muchas veces creemos saber mas de lo que realmente sabemos - y esto va de la mano con ese autoconocimiento que es tan importante… Por ejemplo, si te reunes con un grupo de personas y les preguntas si creen que sus habilidades de manejo son por encima del promedio un 90% te dira que si, lo cual, en la realidad - esta errado ya que el promedio siempre tiende alrededor dle 50%.&lt;/p&gt;
 
-&lt;p&gt;Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://handinhandhomeschool.com/wp-content/uploads/2020/04/bellcurve.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;strong&gt;Gauss para IQ, promedio al centro&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.&lt;/p&gt;
+&lt;p&gt;Bajo este mismo concepto, la gran mayoria de nosotros nos vemos como personas libres de defectos (o al menos no reflexionamos mucho en ellos) impidiendo nuestro crecimento personal.&lt;/p&gt;
 
-&lt;h3 id=&quot;some-great-subheading-h3-1&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
+&lt;p&gt;Sin embargo, la sombra esta ahi, haciendo de las suyas y si no la integras va a manifestarse de las peores maneras posibles en los peores momentos.&lt;/p&gt;
 
-&lt;p&gt;Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+&lt;h2 id=&quot;naturaleza-humana&quot;&gt;Naturaleza Humana&lt;/h2&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;This quote will &lt;em&gt;change&lt;/em&gt; your life. It will reveal the &lt;i&gt;secrets&lt;/i&gt; of the universe, and all the wonders of humanity. Don’t &lt;em&gt;misuse&lt;/em&gt; it.&lt;/p&gt;
+  &lt;p&gt;Puedes ir contra tu naturaleza a lincharla, pero ella siempre regresa.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.&lt;/p&gt;
+&lt;p&gt;Aprendemos a proyectar lo contrario de nuestras vulnerabilidades  hasta cuando llega un momento de presion o stress y la mascara se cae, dejando que la sombra tome control, tal como Mr.Hyde con el Dr.Jekyll.&lt;/p&gt;
 
-&lt;h3 id=&quot;some-great-subheading-h3-2&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
+&lt;p&gt;Y todos hemos experimentado esas transformaciones en Mr.Hyde durante nuestra vida, ya sea en momentos de stress, presion o bajo la influencia de alguna droga.&lt;/p&gt;
 
-&lt;p&gt;Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.&lt;/p&gt;
+&lt;p&gt;Nuestro ego no nos deja ver la realidad porque ya tenemos historias pre-escritas sobre quienes somos, lo que no somos y lo que no hariamos, cualquier cosa que entre en conflicto con esas ideas de quienes somos las descartamos (aunque nos hayamos comportado como imbeciles se lo atribuimos a causas externas a nosotros mismos, porque el “yo” es tan fragil que no puede sufrir.)&lt;/p&gt;
 
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Hello, World!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;crecer&quot;&gt;Crecer&lt;/h2&gt;
 
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
+&lt;p&gt;Mucho de nuestro potencial esta en aceptar esta parte de nosotros mismos - como escribi mas arriba, podemos ir en contra de la naturaleza pero esta misma naturaleza va a regresar por nosotros mas adelante.&lt;/p&gt;
 
-&lt;h4 id=&quot;you-might-want-a-sub-subheading-h4&quot;&gt;You might want a sub-subheading (h4)&lt;/h4&gt;
+&lt;p&gt;Entender donde estan nuestras debilidades (en mi caso muy particular tiendo a tomar decisiones para complacer a las personas pero mi parte contraria es ser egoista - si puedo unir las dos, establecer limites no solo conmigo sino con los demas es una manera de maximizar mi potencial)&lt;/p&gt;
 
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h4 id=&quot;but-its-probably-overkill-h4&quot;&gt;But it’s probably overkill (h4)&lt;/h4&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h5 id=&quot;could-be-a-smaller-sub-heading-pacman-h5&quot;&gt;Could be a smaller sub-heading, &lt;code class=&quot;highlighter-rouge&quot;&gt;pacman&lt;/code&gt; (h5)&lt;/h5&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h6 id=&quot;small-yet-significant-sub-heading--h6&quot;&gt;Small yet significant sub-heading  (h6)&lt;/h6&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h3 id=&quot;oh-hai-an-unordered-list&quot;&gt;Oh hai, an unordered list!!&lt;/h3&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
+&lt;p&gt;Fijate donde estan esas nociones preconcebidas de ti mismo, pide feedback a una persona de confianza, el autoconocimiento es un trabajo de la vida entera - pero es importante si queremos tener paz.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;First item, yo&lt;/li&gt;
-  &lt;li&gt;Second item, dawg&lt;/li&gt;
-  &lt;li&gt;Third item, what what?!&lt;/li&gt;
-  &lt;li&gt;Fourth item, fo sheezy my neezy&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Examina como reaccionas&lt;/strong&gt;: Mas alla de atribuir tu reaccion a una causa externa, estudia tu comportamiento enfocado en ti, dar excusas de que reaccionaste porque “otros se comportan como idiotas” no es valido, como decia Epitectus lo unico que esta bajo tu control es tu reaccion.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Comulga con tus demonios&lt;/strong&gt;: En vez de esconderlos bajo la mesa, invitalos a comer contigo, sacalos a la luz, los demonios crecen y se hacen fuertes en la oscuridad.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Trabaja en una o dos hipotesis sobre ti&lt;/strong&gt;: Busca informacion sobre como los otros te perciben, cuestiona los conceptos sobre ti mismo, se realista, entiende el contexto y trabaja desde ahi, poco a poco.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;No te pongas a la defensiva&lt;/strong&gt;: Si vas a intentar meterle a las hipotesis, no te amargues cuando escuches cosas que vayan en contra de lo que tu crees de ti mismo y lo atribuyas a “opiniones personales”, &lt;strong&gt;si quieres crecer tienes que aprender a escuchar la verdad&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Enfocate en tus fortalezas&lt;/strong&gt;: Si bien todo este ejercicio de sacar nuestros demonios a la luz, ser capaces de entender que somos seres integrales y que esa parte “primitiva” de nosotros no es la dominante y que siempre dejar que el YANG domine al YING.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;oh-hai-an-ordered-list&quot;&gt;Oh hai, an ordered list!!&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/petesect18/notas/master/assets/Demonz.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
+&lt;h4 id=&quot;mas-información&quot;&gt;Mas información&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hbr.org/2018/01/what-self-awareness-really-is-and-how-to-cultivate-it&quot;&gt;Autoconocimiento&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://highexistence.com/carl-jung-shadow-guide-unconscious/&quot;&gt;Jung&amp;amp;The Shadow&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://fromthegreennotebook.com/2019/04/22/our-dark-side-and-the-need-for-self-awareness/&quot;&gt;Our Dark Side and the need for self awareness&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://positivepsychology.com/self-awareness-matters-how-you-can-be-more-self-aware/&quot;&gt;What is self awareness?&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name>Pedro</name></author><category term="life" /><summary type="html">Tienes una idea general de cuales son tus creencias, valores y opiniones? Tienes un codigo personal que decides seguir y que dicta si eres una “buena” o “mala” persona?</summary></entry><entry><title type="html">Modelos Mentales</title><link href="http://localhost:4000/life/2021/07/11/modelosmentales.html" rel="alternate" type="text/html" title="Modelos Mentales" /><published>2021-07-11T07:49:00-05:00</published><updated>2021-07-11T07:49:00-05:00</updated><id>http://localhost:4000/life/2021/07/11/modelosmentales</id><content type="html" xml:base="http://localhost:4000/life/2021/07/11/modelosmentales.html">&lt;p&gt;El ultimo año he venido leyendo mucho sobre como tomar mejores decisiones ya que no es secreto que cada vez mas nuestra atencion quiere ser monopolizada por los 1800 inputs que tenemos en el dia a dia(desde el correo de la oficina hasta twitter, pasando por los IM’s de teams, grupos de whatsapp) lo cual nubla nuestra capacidad de atencion.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;First item, yo&lt;/li&gt;
-  &lt;li&gt;Second item, dawg&lt;/li&gt;
-  &lt;li&gt;Third item, what what?!&lt;/li&gt;
-  &lt;li&gt;Fourth item, fo sheezy my neezy&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;Uno de los mas grandes conceptos que me he encontrado es el de los modelos mentales, un modelo mental es simplemente la representacion de como algo trabaja, al no poder tener todos los detalles del mundo en nuestros cerebros, simplemente guardamos modelos para simplificar lo complejo de una manera entendible.&lt;/p&gt;
 
-&lt;h2 id=&quot;headings-are-cool-h2&quot;&gt;Headings are cool! (h2)&lt;/h2&gt;
+&lt;p&gt;Lo importante es tener los modelos mentales correctos que se apliquen a la situacion, el problema es que muchas veces nos ocurre el viejo adagio en donde “cuando tienes un martillo, todo se ve como un clavo”&lt;/p&gt;
 
-&lt;p&gt;Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+&lt;h2 id=&quot;perspectivas-de-la-vida&quot;&gt;Perspectivas de la vida&lt;/h2&gt;
 
-&lt;p&gt;Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+&lt;p&gt;Como diria Ruben Blades y para seguir con mi linea anterior, “todo es segun el color del cristal con que se mira” y mientras mas “cristales” tengamos en nuestra caja de herramientas asi mismo podremos usar los diferentes modelos mentales que hayamos aprendido y poder implementarlos a la situacion.&lt;/p&gt;
 
-&lt;p&gt;Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.&lt;/p&gt;
+&lt;p&gt;Inclusive, como buen experto en ojos, combinar esos cristales para poder generar una vision mas clara de la situacion o el problema que estas experimentando.&lt;/p&gt;
 
-&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
+&lt;p&gt;Al ser especialistas, en vez de tener una amplia gama de modelos mentales, solo tenemos los de nuestras respectivas disciplinas - y cada una de ellas ve algo diferente dentro de la misma situacion, por ejemplo para la situacion de Panama un Ingeniero pensaria en los sistemas y procesos que hicieron que permiten la corrupcion en nuestro pais, un abogado pensaria en cuales son las leyes que tienen ambiguedades y permiten desfalcos o cuales son las leyes que no se cumplen al momento de ejecutar, un financista/economista pensaria en modelos economicos fallidos y/o modelos de recaudacion extractivos/progresivos.&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Title 1&lt;/th&gt;
-      &lt;th&gt;Title 2&lt;/th&gt;
-      &lt;th&gt;Title 3&lt;/th&gt;
-      &lt;th&gt;Title 4&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;Ninguna de ellas esta mal y probablemente todas tengan algo que ver con el problema pero ninguna de ellas puede describir el panorama completo, compartir conocimiento o por lo menos aprender lo basico de otras disciplinas te dara un entendimiento mas robusto sobre como manejar la situacion de Panama (en este caso).&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Title 1&lt;/th&gt;
-      &lt;th&gt;Title 2&lt;/th&gt;
-      &lt;th&gt;Title 3&lt;/th&gt;
-      &lt;th&gt;Title 4&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet consectetur&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-      &lt;td&gt;lorem&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet consectetur&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>[&quot;Bart Simpson&quot;, &quot;Nelson Mandela Muntz&quot;]</name></author><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</summary></entry><entry><title type="html">Welcome To Jekyll</title><link href="http://localhost:4000/2016/05/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome To Jekyll" /><published>2016-05-20T00:00:00-05:00</published><updated>2016-05-20T00:00:00-05:00</updated><id>http://localhost:4000/2016/05/20/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2016/05/20/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;Con esto no quiero hacer una apologia en contra de la especializacion, sin embargo considero importante que una persona en la posicion de toma de decisiones (y nosotros en nuestras vidas) de tratar de entender y ver todos los angulos/aristas posibles para identificar oportunidades y mitigar riesgos.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Los modelos mentales son imperfectos, pero utiles - si los utilizamos para construir puentes en nuestro conocimiento vamos a tener una caja de herramientas (o set de cristales) mucho mas amplio.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;h2 id=&quot;conocimiento-practico&quot;&gt;Conocimiento Practico.&lt;/h2&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;En la escuela y la universidad nos imparten conocimiento en “cajetas”, matematicas, biologia, fisica, historia, filosofia.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>GitHub User</name><email>your-email@domain.com</email></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Some articles are just so short that we have to make the footer stick</title><link href="http://localhost:4000/misc/2016/05/19/super-short-article.html" rel="alternate" type="text/html" title="Some articles are just so short that we have to make the footer stick" /><published>2016-05-19T00:00:00-05:00</published><updated>2016-05-19T00:00:00-05:00</updated><id>http://localhost:4000/misc/2016/05/19/super-short-article</id><content type="html" xml:base="http://localhost:4000/misc/2016/05/19/super-short-article.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea mmodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</content><author><name>GitHub User</name><email>your-email@domain.com</email></author><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea mmodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</summary></entry></feed>
+&lt;p&gt;En el mundo real, la informacion casi nunca esta divida en categorias, podras recordar facilmente a esa persona en la escuela que simplemente repite para el examen - es necesario tener &lt;em&gt;conocimiento practico&lt;/em&gt; y entender como las diferentes areas se combinan entre si.&lt;/p&gt;
+
+&lt;p&gt;Si los datos no se convierten en conocimiento y ese conocimiento en conocimiento practico (que puede llegar al nivel de sabiduria), no somos mejores que una computadora.&lt;/p&gt;
+
+&lt;p&gt;La unica manera de saber hasta donde entendemos la realidad es poner nuestras ideas y entendimiento a la accion, si no probamos nuestras ideas en el mundo real, manteniendo contacto con la tierra - como sabremos si funcionan?&lt;/p&gt;
+
+&lt;p&gt;Desarrollar un arsenal de modelos mentales en nuestra vida es importante, tener la capacidad de identificar cuales son los que ya usas (tus defaults) y ver como puedes integrar nuevos conceptos.&lt;/p&gt;
+
+&lt;p&gt;Para dar un ejemplo, conozco personas con mucha teoria musical que no pueden hacer una cancion y personas con conocimiento limitado que son maquinas de crear musica.&lt;/p&gt;
+
+&lt;h2 id=&quot;como-pensar&quot;&gt;Como pensar?&lt;/h2&gt;
+
+&lt;p&gt;Nuestros modelos mentales definen como pensamos, como atacamos los problemas y como identificamos la informacion que importa y la que no.&lt;/p&gt;
+
+&lt;p&gt;Las buenas decisiones hacen el futuro mas sencillo, creando menos stress y mas oportunidades, estas se logran con un modelo de pensamiento claro que por lo general no nos enseñan en la escuela y muy poco nuestros padres.&lt;/p&gt;
+
+&lt;p&gt;Las malas decisiones por otro lado hacen el futuro mas dificil, creando stress y menos oportunidades, generando un feedback loop negativo.&lt;/p&gt;
+
+&lt;p&gt;Pensar significa agarrar una idea y tener el tiempo suficiente para desarrollarla, por lo general tenemos ideas (y modelos mentales) destilados por otros o lo que se le conoce como “sabiduria convencional”&lt;/p&gt;
+
+&lt;p&gt;Pensar bien requiere tiempo y ese tiempo es caro, pero pensar mal, y tomar malas decisiones es peor.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Estamos acostumbrados a creer lo que otras personas o autoridades nos dicen, tenemos que aprender a arreglar, desarmar y probar lo que pensamos.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;destruir-para-crear&quot;&gt;Destruir para crear&lt;/h2&gt;
+
+&lt;p&gt;Heredamos ideas de nuestros padres, la sociedad, nuestros amigos, nuestro circulo profesional, etc… tenemos que darnos cuenta cuales son las cosas que aceptamos “porque si” y como podemos destruir esos conceptos a sus premisas fundamentales para luego poder reconstruir conceptos nuevos.&lt;/p&gt;
+
+&lt;p&gt;Para eso, tenemos que dominar los conceptos fundamentales de cada disciplina y tratar de combinar lo mas que se pueda, buscar fluidez. (Ser un Artista Marcial Mixto del conocimiento.)&lt;/p&gt;
+
+&lt;p&gt;Entender lo basico nos va a ayudar a crear, en el mundo del kettlebell por ejemplo, entender rutinas de push/pull/swing te da una infinidad de permutaciones en donde puedes probar y elegir la que mas se adapte a tu situacion.&lt;/p&gt;
+
+&lt;p&gt;Asi mismo entre el chef y el cocinero - el chef inventa recetas, el cocinero las sigue.&lt;/p&gt;
+
+&lt;h2 id=&quot;top-10-modelos-mentales-favoritos&quot;&gt;Top 10 Modelos mentales favoritos&lt;/h2&gt;
+
+&lt;p&gt;Existe X cantidad de modelos mentales yo tengo mis “personal favorites” y en el primer link de referencia esta el resto.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Circulo de competencia&lt;/strong&gt;: Cuando el ego y no el conocimiento es lo que dicta nuestra vida perdemos oportunidad de aprender, &lt;em&gt;no puedes aprender lo que crees que ya sabes&lt;/em&gt; - estar claro en donde tienes limitantes es extremadamente importante para aprender de los demas (nadie se lo sabe todo)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Pensamiento Probabilistico&lt;/strong&gt;: Mucho mas ahora en tiempos de pandemia, entender las probabilidades de que algo ocurra y desde un punto de vista estadistico con diferentes variables, da paz mental y nos ayuda a identificar cuales son los escenarios posibles.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;La navaja de Occam y la de Hanlon&lt;/strong&gt;: Estas dos, son bastante comunes en mi pensamiento diario, la de Hanlon dice que no debemos atribuir a malicia lo que puede ser facilmente explicado por un error (o estupidez), esto nos ayuda a bajar la paranoia y alejarnos de los dogmas e ideologias. La de Occam se le atribuye a que las explicaciones sencillas son mas probables que las complejas (por lo general) - como cuando buscas en google “dolor de cabeza”, simplemente tienes migraña y no cancer de cerebro.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Evolucion&lt;/strong&gt;: De esta mis amigos se burlan porque explico muchas adaptaciones sociales/fisicas del ser humano a traves de este lente - competir por recursos limitados en ambientes que cambian, los que se adaptan mejor sobreviven y pasan esas caracteristicas a sus hijos, como los seres humanos somos el unico animal capaz de alterar nuestro ambiente, tenemos toda la tecnologia y la ciencia pero aun seguimos siendo cazadores recolectores.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Cooperacion y Competicion&lt;/strong&gt;: En el game theory el dilema del prisionero es un modelo que se muestra en la vida, en la guerra y en otras areas de la vida humana, siempre que sea un modelo competitivo estaras mejor tomando la opcion que te convenga a ti independientemente de lo que tu competidor haga - si estas en un modelo cooperativo, siempre la mejor opcion es cooperar - todo depende del contexto pero en relaciones humanas el 99% del tiempo lo mejor es cooperar (desde mi punto de vista)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Feedback Loops&lt;/strong&gt;: Todos los sistemas complejos tienen loops de retroalimentacion, A causa B y B influencia a A.
+Tomando un ejemplo del estado de la educacion en Panama, muchas personas piensan que solo enfocandonos en una variable (“dar mas plata a la educacion”) sin entender que existen otras variables (“la corrupcion rampante del MEDUCA”, “La ineficiencia del cuerpo docente”)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Entropia&lt;/strong&gt;: Esta es interesante porque puede ser explicada de una manera cientifica muy complicada, o simplemente se puede explicar como: &lt;strong&gt;“La vida tiende al desorden”&lt;/strong&gt; y no solo la vida &lt;strong&gt;EL FUCKING UNIVERSO&lt;/strong&gt;, tenemos que esforzarnos para que eso no sea asi, tenemos que ser conscientes para poder mitigar el jale de la entropia en nuestras vidas.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;No entrenas, ni comes bien, vas a tener mala salud&lt;/li&gt;
+      &lt;li&gt;No ordenas tu cuarto o espacio de trabajo, se va a desordenar&lt;/li&gt;
+      &lt;li&gt;Descuidas tu lado espiritual/filosofico, tendras problemas&lt;/li&gt;
+      &lt;li&gt;No dedicas esfuerzo a tus proyectos o a las cosas que te interesan, no los terminaras.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La entropia es nadar rio cuesta arriba y en la vida, en este poco corto tiempo que tengo aqui, se me ha probado cierto una y otra vez.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Costo de Oportunidad&lt;/strong&gt;: Cuando haces algo, dejas de hacer otra cosa, cuando estas en un lugar, dejas de estar en otro.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Intercambios y costos - lo mas importante es que estemos conscientes de que estamos dejando de hacer, por dedicarle tiempo y espacio a otra cosa.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Negacion y la tendencia a estereotipar&lt;/strong&gt;: Los seres humanos somos expertos en querer negar nuestra realidad, lo cual nos cuesta demasiado al final del camino - adicional, nuestra tendencia a generalizar nos impide ver otras opciones que esten en la mesa, asi mismo, su primo el &lt;strong&gt;confirmation bias&lt;/strong&gt; nos hace solo creer lo que escogemos ver en vez de seguir el metodo cientifico donde nuestras ideas son solo piezas de lego que podemos usar como queramos y descartar si es necesario.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Inversion&lt;/strong&gt;: No te preocupes por “triunfar” preocupate por no fallar, que es lo contrario a lo que quieres lograr, y trata de ver como puedes hacerlo - “En mi libro, que es lo que hace una persona horrible?” en vez de pensar “En mi libro, que es ser una excelente persona?” cual es mas dificil de contestar?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;nota-final&quot;&gt;Nota Final&lt;/h2&gt;
+
+&lt;p&gt;Tu vida a hoy (y el AHORA) que muchos cientificos dicen es el lapso de tiempo que ocurre en los siguientes 2 a 3 segundos depende de las decisiones que tomes basado en los problemas que enfrentes.&lt;/p&gt;
+
+&lt;p&gt;Mientras mas herramientas tengas para enfrentarte a los problemas, la oportunidad de tomar mejores decisiones aumentara.&lt;/p&gt;
+
+&lt;p&gt;Los modelos mentales son una manera de salir de la prision de los pensamientos de otros.&lt;/p&gt;
+
+&lt;p&gt;Existen modelos mentales en fisica, quimica, microeconomia, finanzas, liderazgo, biologia, psicologia, naturaleza humana, hice un top 10, pero existen cientos.&lt;/p&gt;
+
+&lt;p&gt;Entender que no somos la maquina racional que nos han hecho creer, aprender a usar modelos mentales de diferentes disciplinas y entender como tomamos decisiones es uno de las mejores habilidades que podemos aprender.&lt;/p&gt;
+
+&lt;h4 id=&quot;mas-informacionlibros&quot;&gt;Mas informacion/Libros&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://fs.blog/mental-models/#what_are_mental_models&quot;&gt;What Are Mental Models&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://jamesclear.com/mental-models&quot;&gt;Mental Models&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Seeking-Wisdom-Darwin-Munger-3rd/dp/1578644283&quot;&gt;Seeking Wisdom&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://jamesclear.com/feynman-mental-models&quot;&gt;Feynman Mental Models&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name>Pedro</name></author><category term="life" /><summary type="html">El ultimo año he venido leyendo mucho sobre como tomar mejores decisiones ya que no es secreto que cada vez mas nuestra atencion quiere ser monopolizada por los 1800 inputs que tenemos en el dia a dia(desde el correo de la oficina hasta twitter, pasando por los IM’s de teams, grupos de whatsapp) lo cual nubla nuestra capacidad de atencion.</summary></entry><entry><title type="html">Cinco Cosas</title><link href="http://localhost:4000/life/2020/11/12/cosas.html" rel="alternate" type="text/html" title="Cinco Cosas" /><published>2020-11-12T03:55:00-05:00</published><updated>2020-11-12T03:55:00-05:00</updated><id>http://localhost:4000/life/2020/11/12/cosas</id><content type="html" xml:base="http://localhost:4000/life/2020/11/12/cosas.html">&lt;p&gt;Hoy cumplo 35 años de respirar oxigeno, 20 de ser punk rocker, casi 3 de ser papá por primera vez y casi 8 meses por segunda vez.&lt;/p&gt;
+
+&lt;p&gt;En una etapa de mi camino por la vida en donde miro hacia atrás para aprender y miro hacia adelante para soñar.&lt;/p&gt;
+
+&lt;p&gt;Una cosa curiosa de crecer (probablemente desde que eres un pelao fan de los Pistols y Anti-Flag) es que en cada decada (o de vez en cuando) dices &lt;em&gt;“Así sere para siempre, mi mente, mi personalidad y mi forma de ser seran asi hasta el dia que me muera”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;15 años mas tarde miras atrás y dices “Sha, cambie buco!”&lt;/p&gt;
+
+&lt;p&gt;Pasamos por periodos de transicion y lo más importante (para mi al menos) es tener tus valores claros - esos valores que fuiste formando cuando eras un pelao y que conforme vas creciendo los fortaleces - manteniendote fiel a tu esencia.&lt;/p&gt;
+
+&lt;p&gt;Queria compartir 5 cosas que he aprendido los ultimos 5 años y conforme voy entrando en la segunda mitad de la decada se unen a mi arsenal de herramientas para seguir mejorando como persona.&lt;/p&gt;
+
+&lt;h2 id=&quot;todo-es-gasolina&quot;&gt;Todo es gasolina&lt;/h2&gt;
+
+&lt;p&gt;Todo lo que nos pasa tiene una razón de ser, nuestras experiencias buenas y malas, nuestros triunfos, fracasos, decepciones.&lt;/p&gt;
+
+&lt;p&gt;A lo largo de estos 35 años fui el bueno, el malo, hice reir, llorar, hice cosas que me averguenzan, hice cosas de las cuales me siento orgulloso, fracasé en algunos proyectos, triunfé en otros y los que dejé pendientes son los que mas me pesan hoy.&lt;/p&gt;
+
+&lt;p&gt;Toda esa amalgama de experiencias me sirvieron de combustible para ser la persona que soy ahora, todo es gasolina para convertir tus experiencias en sabidura y poder pasarselas a otros.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://preview.redd.it/1gqcrvqqoo031.png?auto=webp&amp;amp;s=cc3600e83a18cf1fde92f068b06d8334ef7745f8&quot; alt=&quot;Obstacle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Usar todo lo que te pasa por más malo que sea para convertirlo en fuego es algo que hay que cultivar y se cultiva teniendo la mente del artista, el artista convierte la melancolia de una ruptura emocional en una hermosa cancion, el artista convierte un error en una idea que se vuelve innovacion - todos podemos serlo, solo que en una sociedad donde hasta la individualidad es un &lt;em&gt;commodity&lt;/em&gt; es dificil de encontrar.&lt;/p&gt;
+
+&lt;p&gt;No desaprovechemos las experiencias, todo es aprendizaje.&lt;/p&gt;
+
+&lt;h2 id=&quot;los-libros-son-tus-mejores-aliados&quot;&gt;Los libros son tus mejores aliados&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Leer es viajar en el tiempo” - Carl Sagan&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Esto es algo que viene conmigo desde que tengo uso de razón, pero no noté su valor (tal vez porque lo daba por sentado) hasta hace poco.&lt;/p&gt;
+
+&lt;p&gt;Una de las cosas mas importantes que una persona puede hacer es exponerse a una amplia cantidad de experiencias a través de la lectura y/o haciendo.&lt;/p&gt;
+
+&lt;p&gt;A través de los siglos gente murio para que yo pudiera tener acceso a libros, leer es un mandato moral y va muy de la mano con cultivar experiencias, va de la mano con ser un mejor ser humano, no puedes vivirlo todo ni vivir a traves de las eras.&lt;/p&gt;
+
+&lt;p&gt;Leyndo te conectas con las grandes mentes de todos los tiempos, leyendo te encuentras con amigos, leyendo tambien aprendes a conocerte a ti mismo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.mwi.com/wp-content/uploads/2015/09/bigstock-Stack-Of-Books-70033240-1024.jpg&quot; alt=&quot;Lectura&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Y no hablo de leer articulos y revistas - hablo de libros, hay algo que tienen los libros, contar una historia es fundamental para los seres humanos - es como exploramos y entendemos el mundo, lo puedo ver en mi hijo que pide que le cuente historias, lo veo en las tribus que viven vidas mas alineadas a nuestra verdadera naturaleza cuando se reunen alrededor del fuego para hablar de heroes del pasado y lo veo en los bares alrededor de unas cervezas y buenos amigos.&lt;/p&gt;
+
+&lt;p&gt;Los libros son clave para contar historias, hacen nuestra imaginación mas fuerte y nos hacen reflexionar.&lt;/p&gt;
+
+&lt;h2 id=&quot;arma-y-manten-un-zettelkasten&quot;&gt;Arma y manten un Zettelkasten&lt;/h2&gt;
+
+&lt;p&gt;Siguiendo en el tema de la lectura, el conocimiento por el conocimiento mismo solo sirve para Jeopardy y las trivias - tenemos que ser capaces de utilizar todo ese conocimiento que hemos adquirido de una manera practica para resolver problemas nuevos.&lt;/p&gt;
+
+&lt;p&gt;De ahi mi enfasis en exponerte a la mayor cantidad de experiencias, leer diferentes tipos de libros (inclusive los que contradigan tu forma de pensar, &lt;strong&gt;principalmente esos&lt;/strong&gt;)&lt;/p&gt;
+
+&lt;p&gt;Un segundo cerebro, un sistema de notas donde pudieras guardar toda la informacion que ibas recolectando, junto con tus anotaciones de tus libros y ver como cada dato y pieza de informacion se relaciona con otra para poder crear tus propias conclusiones guiandote en modelos mentales era lo que me hacia falta.&lt;/p&gt;
+
+&lt;p&gt;Creo que todos deberiamos tener un sistema de notas, un &lt;em&gt;Zettelkasten&lt;/em&gt; al cual podamos hacerle referencia cuando tenemos un problema, queremos hacer o escribir sobre algo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://petesect18.github.io/notas/assets/zettel.PNG&quot; alt=&quot;Petes Zettelkasten&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;corre-la-carrera-contra-ti&quot;&gt;Corre la carrera contra ti&lt;/h2&gt;
+
+&lt;p&gt;Este tema es un tema bastante cliche pero es importante recordarlo - si compites contra otros terminas en una trampa mimetica, comienzas a perder el sentido de quien eres y terminas en lugares donde el tú de 15 años juro jamas estar.&lt;/p&gt;
+
+&lt;p&gt;Si compites contigo mismo, solo por la satisfacción de ser lo mejor que puedes ser, por el sentido de dar lo mejor al mundo y los demás, es ahí donde esta tu mejor trabajo, es ahí donde ese muchacho de 15 años estará orgulloso, porque no pierde la esencia, triunfar sobre ti y tus demonios es la victoria mas importante de todas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bjjmindset.files.wordpress.com/2014/09/tatami-zen-gorilla-gi-teaser.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;cambios&quot;&gt;Cambios&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“La vida es un constante proceso de aprendizaje”
+-Pedro Mora Rodriguez&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;El cambio es la unica constante, estamos en un proceso de reinvencion en donde querer mantenernos estaticos simplemente nos va a romper, tenemos que aprender a ser flexibles para poder adaptarnos a cualquier situacion que se nos presente y aprender.&lt;/p&gt;
+
+&lt;p&gt;Es facil hablar de Amor Fati - es dificil vivirlo, sin embargo creo que es uno de los conceptos mas importantes de la siguiente mitad de mi vida, amar todo lo que me ocurre, no solo aceptarlo sino tambien amarlo para asi poder sacarle lo mejor a la situacion y mantener siempre una actitud alineada a las cosas que puedo controlar (que al final solo es mi reaccion).&lt;/p&gt;
+
+&lt;p&gt;Los 35 años que pasaron le pertenecen a la muerte - queda seguir reflexionando, amando, creando y mejorando en el arte de vivir.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://vivirtiendo.com/wp-content/uploads/2020/04/memento_mori.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;mas-información&quot;&gt;Mas información&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://zettelkasten.de/posts/zettelkasten-improves-thinking-writing/&quot;&gt;Crea un Zettelkasten&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name>Pedro</name></author><category term="life" /><summary type="html">Hoy cumplo 35 años de respirar oxigeno, 20 de ser punk rocker, casi 3 de ser papá por primera vez y casi 8 meses por segunda vez. En una etapa de mi camino por la vida en donde miro hacia atrás para aprender y miro hacia adelante para soñar. Una cosa curiosa de crecer (probablemente desde que eres un pelao fan de los Pistols y Anti-Flag) es que en cada decada (o de vez en cuando) dices “Así sere para siempre, mi mente, mi personalidad y mi forma de ser seran asi hasta el dia que me muera” 15 años mas tarde miras atrás y dices “Sha, cambie buco!” Pasamos por periodos de transicion y lo más importante (para mi al menos) es tener tus valores claros - esos valores que fuiste formando cuando eras un pelao y que conforme vas creciendo los fortaleces - manteniendote fiel a tu esencia. Queria compartir 5 cosas que he aprendido los ultimos 5 años y conforme voy entrando en la segunda mitad de la decada se unen a mi arsenal de herramientas para seguir mejorando como persona. Todo es gasolina Todo lo que nos pasa tiene una razón de ser, nuestras experiencias buenas y malas, nuestros triunfos, fracasos, decepciones. A lo largo de estos 35 años fui el bueno, el malo, hice reir, llorar, hice cosas que me averguenzan, hice cosas de las cuales me siento orgulloso, fracasé en algunos proyectos, triunfé en otros y los que dejé pendientes son los que mas me pesan hoy. Toda esa amalgama de experiencias me sirvieron de combustible para ser la persona que soy ahora, todo es gasolina para convertir tus experiencias en sabidura y poder pasarselas a otros. Usar todo lo que te pasa por más malo que sea para convertirlo en fuego es algo que hay que cultivar y se cultiva teniendo la mente del artista, el artista convierte la melancolia de una ruptura emocional en una hermosa cancion, el artista convierte un error en una idea que se vuelve innovacion - todos podemos serlo, solo que en una sociedad donde hasta la individualidad es un commodity es dificil de encontrar. No desaprovechemos las experiencias, todo es aprendizaje. Los libros son tus mejores aliados “Leer es viajar en el tiempo” - Carl Sagan Esto es algo que viene conmigo desde que tengo uso de razón, pero no noté su valor (tal vez porque lo daba por sentado) hasta hace poco. Una de las cosas mas importantes que una persona puede hacer es exponerse a una amplia cantidad de experiencias a través de la lectura y/o haciendo. A través de los siglos gente murio para que yo pudiera tener acceso a libros, leer es un mandato moral y va muy de la mano con cultivar experiencias, va de la mano con ser un mejor ser humano, no puedes vivirlo todo ni vivir a traves de las eras. Leyndo te conectas con las grandes mentes de todos los tiempos, leyendo te encuentras con amigos, leyendo tambien aprendes a conocerte a ti mismo. Y no hablo de leer articulos y revistas - hablo de libros, hay algo que tienen los libros, contar una historia es fundamental para los seres humanos - es como exploramos y entendemos el mundo, lo puedo ver en mi hijo que pide que le cuente historias, lo veo en las tribus que viven vidas mas alineadas a nuestra verdadera naturaleza cuando se reunen alrededor del fuego para hablar de heroes del pasado y lo veo en los bares alrededor de unas cervezas y buenos amigos. Los libros son clave para contar historias, hacen nuestra imaginación mas fuerte y nos hacen reflexionar. Arma y manten un Zettelkasten Siguiendo en el tema de la lectura, el conocimiento por el conocimiento mismo solo sirve para Jeopardy y las trivias - tenemos que ser capaces de utilizar todo ese conocimiento que hemos adquirido de una manera practica para resolver problemas nuevos. De ahi mi enfasis en exponerte a la mayor cantidad de experiencias, leer diferentes tipos de libros (inclusive los que contradigan tu forma de pensar, principalmente esos) Un segundo cerebro, un sistema de notas donde pudieras guardar toda la informacion que ibas recolectando, junto con tus anotaciones de tus libros y ver como cada dato y pieza de informacion se relaciona con otra para poder crear tus propias conclusiones guiandote en modelos mentales era lo que me hacia falta. Creo que todos deberiamos tener un sistema de notas, un Zettelkasten al cual podamos hacerle referencia cuando tenemos un problema, queremos hacer o escribir sobre algo. Corre la carrera contra ti Este tema es un tema bastante cliche pero es importante recordarlo - si compites contra otros terminas en una trampa mimetica, comienzas a perder el sentido de quien eres y terminas en lugares donde el tú de 15 años juro jamas estar. Si compites contigo mismo, solo por la satisfacción de ser lo mejor que puedes ser, por el sentido de dar lo mejor al mundo y los demás, es ahí donde esta tu mejor trabajo, es ahí donde ese muchacho de 15 años estará orgulloso, porque no pierde la esencia, triunfar sobre ti y tus demonios es la victoria mas importante de todas. Cambios “La vida es un constante proceso de aprendizaje” -Pedro Mora Rodriguez El cambio es la unica constante, estamos en un proceso de reinvencion en donde querer mantenernos estaticos simplemente nos va a romper, tenemos que aprender a ser flexibles para poder adaptarnos a cualquier situacion que se nos presente y aprender. Es facil hablar de Amor Fati - es dificil vivirlo, sin embargo creo que es uno de los conceptos mas importantes de la siguiente mitad de mi vida, amar todo lo que me ocurre, no solo aceptarlo sino tambien amarlo para asi poder sacarle lo mejor a la situacion y mantener siempre una actitud alineada a las cosas que puedo controlar (que al final solo es mi reaccion). Los 35 años que pasaron le pertenecen a la muerte - queda seguir reflexionando, amando, creando y mejorando en el arte de vivir. Mas información Crea un Zettelkasten</summary></entry><entry><title type="html">Hábitos</title><link href="http://localhost:4000/life/2020/09/14/habitos.html" rel="alternate" type="text/html" title="Hábitos" /><published>2020-09-14T07:30:00-05:00</published><updated>2020-09-14T07:30:00-05:00</updated><id>http://localhost:4000/life/2020/09/14/habitos</id><content type="html" xml:base="http://localhost:4000/life/2020/09/14/habitos.html">&lt;p&gt;El Kaizen es un concepto japones, que nació orientado a los negocios luego de la segunda guerra mundial que se enfoca en mejoramiento continuo, sin embargo hoy no quiero hablar del kaizen de management y la linea popular entre los que trabajamos en multinacionales de mejoramiento continuo, que si bien, es clave para un trabajo que deja aprendizajes, ya existen suficientes libros sobre el tema, cualquiera de los de Deming o inclusive cualquier articulo del ciclo PLAN DO CHECK ACT te puede poner al día.&lt;/p&gt;
+
+&lt;p&gt;Quiero escribir hoy sobre como nosotros podemos aplicar Kaizen a nuestras vidas y porque es tan importante en una sociedad que le da énfasis a los saltos agigantados pero que nunca ve o busca las historias detrás de esos saltos, nos venden que el éxito es un destino para mantenernos anclados a una falsa imagen de felicidad.&lt;/p&gt;
+
+&lt;p&gt;No, el éxito no es un destino al cual hay que llegar, es un sistema que mejorar, que pasa por un proceso continuo de refinamiento y eso es lo que tenemos que aprender a querer, es donde tenemos que empezar a sentirnos cómodos en esas pequeñas acciones que compuestas crean hábitos, que marcan comportamientos y a su vez crean resultados.&lt;/p&gt;
+
+&lt;h3 id=&quot;disciplina-y-dirección&quot;&gt;Disciplina y Dirección&lt;/h3&gt;
+
+&lt;p&gt;Con mis lineas anteriores no quiero desmeritar las metas, las metas son excelentes para setear la dirección de hacia donde vamos (no puedes llegar a un lugar si no sabes hacia donde vas) el problema es cuando vemos las metas como un final y no entendemos que lo sabroso es el proceso, ahí es donde vemos realmente el progreso y pensar en sistemas nos permite crear progreso, si pasamos demasiado tiempo pensando en las metas y no el suficiente tiempo pensando en los sistemas para lograrlas probablemente no lleguemos a ellas.&lt;/p&gt;
+
+&lt;p&gt;Mas de una vez me he visto metido en las infinitas opciones que me da la internet para hacer algo (Rutinas de Kettlebell, Coding, Hacking, Jiu Jitsu, Libros para leer) enfocándome en &lt;em&gt;cual es la mejor para aprender una técnica, un concepto abstracto o cual libro me dará toda la información que necesito&lt;/em&gt;, paso horas buscando esa &lt;em&gt;bala de plata&lt;/em&gt; que pierdo tiempo importante en escoger UNA para probarla, ejecutar, ver si me funciona, si me funciona bien, y si no pasar a la otra.&lt;/p&gt;
+
+&lt;p&gt;Utilizar métodos que nos permitan probar una opción, ver si nos funciona, crear hábitos y una identidad alrededor de ella - decidir el nuevo tipo de persona que quieres ser, básicamente: &lt;strong&gt;“CREÉRTELA”&lt;/strong&gt; - en estos días veía Cobra Kai y Johnny Lawrence le decía a uno de sus alumnos que “Cambiara el guión”, muchas veces nos asociamos con una identidad de nuestro pasado que alguien mas definió por nosotros (la familia, nuestros amigos de la escuela, algún profesor, hasta nosotros mismos!) tomar ese cambio de identidad como la estrella polar de tu mejoramiento continuo y deja atrás la identidad anterior, muda de piel sin perder tu esencia.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://originleadership.com/wp-content/uploads/2018/01/Jocko-Willink-Quotes-Discipline-Equals-Freedom-2.jpg&quot; alt=&quot;Discipline Equals Freedom&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;1&quot;&gt;1%&lt;/h3&gt;
+
+&lt;p&gt;Hacer preparativos no es tomar acción, planear no agrega valor como si mismo, mas vale un plan 3.3 ejecutado que un plan 5.0 que nunca vio la luz - los días tienen las mismas 24 horas para todos nosotros y cada pequeña cosa que hacemos (o dejamos de hacer) es un paso mas hacia adelante o hacia atrás, siempre trata de hacer, de crear - es mejor hacer menos de lo que esperabas a no hacer nada.&lt;/p&gt;
+
+&lt;p&gt;Caemos en el error de que “si las cosas no me salen como quiero las voy a dejar de intentar” y fallamos en confiar en el proceso - no llegaste a las 400lbs en 2 semanas, tampoco llegaras a tu peso ideal en 2 semanas, los sistemas están compuesto de “Reservorios” (Stocks) y “Afluentes” (Inflows), cambiar un sistema con un stock grande que ya tiene inercia de por si tomará tiempo, no esperes grandes cosas en cortos periodos de tiempo y aprende a saborear ese 1%, ya dice la sabiduria popular &lt;em&gt;Roma no se hizo en un día&lt;/em&gt; - dejarnos de concentrar en las 200lbs y concentrarnos en 2lbs, dejar de ver los 10 mil pasos o los 10 mil reps y concentrarnos en 10, ya que no es el primer error el que te arruina, es lo que le sigue a el, si no entrenaste o practicaste un día, la probabilidad que lo hagas al día siguiente es muchísimo menor, ten la disciplina de continuar.&lt;/p&gt;
+
+&lt;p&gt;1% al dia, es todo - 1% al dia sobre varios años crea mejoras - en todo lo que hagas, ese trabajo inicial y mantener la inercia es mucho mas llevadero que tener que empezar de cero cada vez.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jamesclear.com/wp-content/uploads/2015/08/tiny-gains-graph.jpg&quot; alt=&quot;Marginal Gains&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;paz&quot;&gt;Paz&lt;/h3&gt;
+
+&lt;p&gt;Por otro lado nuestra sociedad a través de la cultura del consumo y las redes sociales nos tiene embobados viendo gente que hace deadlifts de 3000lbs, nacieron haciendo el berimbolo,  pueden hackear una computadora y hacer un script como Neo en Matrix.&lt;/p&gt;
+
+&lt;p&gt;Cada cinco minutos estamos bombardeados con 1500 imagenes de personas que se ven extremadamente felices y tienen todo bajo control, es imposible no pensar estas haciendo mal - peor aun, sentir esa necesidad de mostrar que a ti también te va bien aunque por dentro estés bien fucking mal, adicional al hecho de que vemos tantas opciones y tantas posibilidades que tampoco sabemos que es lo que queremos.&lt;/p&gt;
+
+&lt;p&gt;El punto es que estar mal no es malo en si mismo, &lt;strong&gt;sentirte mal por sentirte mal&lt;/strong&gt; es lo que nos mete en problemas, es pensar que porque no tenemos ese six pack ni el millon de dolares a los 25 como Mark Zuckerberg debemos dejar de mejorar, o porque nos sentimos mal si todo el mundo alrededor mio esta feliz? a veces entramos en ese conflicto y decidimos seguir dopando nuestra mente viendo otra gente hacer cosas pensando que realmente estamos tomando acción para apaciguar esa voz que nos dice que no lo intentemos.&lt;/p&gt;
+
+&lt;p&gt;Abrirte hacia los demas, vivir, buscar mejorar 1% cada dia, confiar en el proceso, “callarle la boca a los otros” que dudaron de ti es una meta ridícula que solo nos crea ansiedad y stress.&lt;/p&gt;
+
+&lt;p&gt;Escoge 2-3 cosas que realmente te hagan feliz, mejora un día a la vez, no te desesperes, confía en el proceso, ejecuta.&lt;/p&gt;
+
+&lt;p&gt;Vive en la mentalidad del crecimiento, todo lo que quieras lo puedes hacer, tal vez no todos tengamos la genética de Arnold pero todos podemos tener una vida saludable, no todos tenemos la inteligencia de Einstein pero todos podemos llegar a ser expertos en nuestro campo de interés, lo importante es &lt;em&gt;encontrarlo&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Como decia Bukowski &lt;em&gt;“Find what you love and let it kill you”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.etsystatic.com/il/0fb353/713894250/il_570xN.713894250_j5eb.jpg&quot; alt=&quot;Bukowski&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;mas-información&quot;&gt;Mas información&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://jamesclear.com/marginal-gains&quot;&gt;Marginal Gains&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://markmanson.net/feedback-loop-from-hell&quot;&gt;Feedback Loop From Hell&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Kaizen&quot;&gt;Kaizen&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Discipline-Equals-Freedom-Field-Manual-ebook/dp/B06XB9HQMN&quot;&gt;Discipline Equals Freedom&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name>Pedro</name></author><category term="life" /><summary type="html">El Kaizen es un concepto japones, que nació orientado a los negocios luego de la segunda guerra mundial que se enfoca en mejoramiento continuo, sin embargo hoy no quiero hablar del kaizen de management y la linea popular entre los que trabajamos en multinacionales de mejoramiento continuo, que si bien, es clave para un trabajo que deja aprendizajes, ya existen suficientes libros sobre el tema, cualquiera de los de Deming o inclusive cualquier articulo del ciclo PLAN DO CHECK ACT te puede poner al día.</summary></entry><entry><title type="html">Comfort</title><link href="http://localhost:4000/life/2020/08/22/comfort.html" rel="alternate" type="text/html" title="Comfort" /><published>2020-08-22T07:30:00-05:00</published><updated>2020-08-22T07:30:00-05:00</updated><id>http://localhost:4000/life/2020/08/22/comfort</id><content type="html" xml:base="http://localhost:4000/life/2020/08/22/comfort.html">&lt;p&gt;“Una vida de comfort”, “Cosas que te harán la vida mas fácil”, “No pases trabajo”, etc…&lt;/p&gt;
+
+&lt;p&gt;Todos hemos escuchado y dicho estas palabras, todos hemos sido objetivo de alguna campaña publicitaria que nos incentiva a pasarla bien, a ser mimados y no nos culpo - los avances tecnológicos son increíbles e inspiradores pero nos están llevando a una vida de pereza.&lt;/p&gt;
+
+&lt;p&gt;Todos tenemos las mismas 24 horas en un día para construir nuestro futuro y construir en quien queremos convertirnos, la pregunta es, porque tan poca gente lo logra? o porque tan poca gente simplemente se conforma con la mediocridad o peor?&lt;/p&gt;
+
+&lt;p&gt;Y con esto no estoy basándome en ningún estereotipo de “Éxito” impuesto por la sociedad(familia, iglesia, estado), para mi, fracasar es ignorar esa voz dentro de nosotros, esa musa con la cual todos los seres humanos nacimos, ese “ángel” que esta para ayudarte a &lt;strong&gt;crear&lt;/strong&gt;, no eres un conjunto único de genes puesto en esta tierra para no aportar tu grano de arena en el espacio/tiempo que te toco, no estas aquí para servir agendas egoístas de trabajo y consumo - esa musa que te toca el hombro de vez en cuando, tal vez cuando tenias 10 años, tal vez la semana pasada, a lo mejor hoy te lo recuerde - ella va y viene a lo largo de tu vida para recordarte para que estás aquí, no escucharla - es llevar una vida mediocre.&lt;/p&gt;
+
+&lt;p&gt;Muchas veces no la escuchamos porque estamos muy ocupados viendo netflix, pegados al celular, distraídos en dramas (personales o ajenos y esas 24 horas se convierten en años, los años en décadas - algunos, tienen la suerte de poder enmendar ese error en sus últimos años y se enfocan en su llamado, otros no tienen esa suerte y la muerte llega diciendo que te dio la oportunidad pero preferiste “scrollear el feed para ver que había”, “viendo el ultimo meme de gatos” o “quedarte sentado en el sillón viendo las ultimas noticias del mundo”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://petesect18.github.io/notas/assets/skeletor.jpg&quot; alt=&quot;TV&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;matando-el-comfort&quot;&gt;Matando el Comfort&lt;/h3&gt;
+
+&lt;p&gt;El comfort es como un bebe oso que agarras de mascota, se ve bonito, le das amor, juegas con el, pero sigue creciendo y tienes que alimentarlo mas, a los años lo que era un osito ahora es un animal salvaje de 400 libras que termina destruyéndote, porque eso es lo que los osos hacen.&lt;/p&gt;
+
+&lt;p&gt;Quedarte muy cómodo en el comfort es un proceso que poco a poco se va metiendo en tu vida y es muy probable que la acorte.&lt;/p&gt;
+
+&lt;p&gt;Steven Pressfield en &lt;em&gt;The War of Art&lt;/em&gt; habla de “La resistencia” - no se puede ver, tocar, ser escuchada, pero esta ahí, es una fuerza que nos impide hacer nuestro trabajo - muchas veces le ponemos nombre (Responsabilidades de la oficina, Pareja, Niños), pero no, la resistencia no son ellos ni es culpa de ellos, la resistencia viene de adentro, es el enemigo interno, te va a persuadir para que te mantengas en el comfort de lo mismo de siempre, va a mentir, fabricara excusas, te hará pensar que esas reuniones son importantes y negociara con lo que sea para setear un deal y tan pronto te des la espalda te va a joder.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;La resistencia es el comfort, amigo del status quo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;poder-máximo&quot;&gt;Poder Máximo&lt;/h3&gt;
+
+&lt;p&gt;Pedrito habla del “Poder Máximo” y siempre me lo da cuando voy a salir - me deja pensando, todos nosotros tenemos un “Poder Maximo” que estamos destinados a explotar, ese llamado mas allá del dinero, mas allá del reconocimiento, un llamado que probablemente involucre ayudar a otros o hacer de este mundo un mundo mejor.&lt;/p&gt;
+
+&lt;p&gt;Le damos larga porque no decimos “Nunca voy a terminar la canción … “ decimos “Voy a empezar mañana” y volvemos a netflix, el celular o a los chismes, apagamos ese poder máximo poco a poco con estos biberones gigantes como bebes que necesitan ser calmados, sedados por las distracciones y el comfort porque sabemos lo que queremos, pero nos negamos a movernos en contra de esa resistencia que es tenaz, que no negocia, y como dice Pressfield es como el Tiburón de JAWS o el Terminator - no actúa con malicia ni tiene nada personal contra ti, su único objetivo es destruir y te toco estar en su camino.&lt;/p&gt;
+
+&lt;p&gt;El ser humano paso el 99.99% de su tiempo como especie en situaciones incomodas y desde el punto de vista evolutivo el comfort o el “status quo” es algo bueno (no puedes reproducirte si no tienes episodios de calma o algo de predictibilidad) el problema es las vidas de &lt;em&gt;hypercomfort&lt;/em&gt; y esa aversión natural que le tenemos a sentirnos incómodos lo que lo convierte en una trampa, trampa monetizable para la industria pero fatal para el individuo.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;La vida es un rio cuesta arriba, si no estas nadando, te esta arrastrando la corriente.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8517/8544197687_4c878e8bfe_z.jpg&quot; alt=&quot;DiscomfortInn&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;la-clave&quot;&gt;La Clave&lt;/h3&gt;
+
+&lt;p&gt;Rollins en su ensayo “The Iron and The Soul” habla sobre la reinvencion, no ser como tus papas, no ser como tus amigos, conocerte a ti mismo y saber que dentro de ti existe una fuerza que solo tú, con tu combinación única de genes puedes aprovechar.&lt;/p&gt;
+
+&lt;p&gt;Me gusta leer ese ensayo de vez en cuando porque va muy relacionado con el tema del comfort, levantar pesas es incomodo, hacer ejercicio crea resistencia, si quieres ser fuerte tienes que levantar una masa que se va a resistir a tus músculos a través de la gravedad y mientras mas alces esa resistencia sera mas fácil alzarla durante los meses y años venideros, luchar contra “la resistencia” aplica tanto en el gimnasio como en la vida.&lt;/p&gt;
+
+&lt;p&gt;Hay personas que no lo hacen, hay personas que simplemente se dejan llevar por la resistencia (que es una fuerza negativa) y se van, río abajo, llevados por la corriente de la comodidad, en vez de aplicar auto-conocimiento, disciplina y trabajo duro, simplemente consumen un producto, son “buenos ciudadanos” y hacen lo que se les pide que hagan, cumpliendo el rol que la sociedad les asigno, porque si no defines tu rol en la sociedad, ella te asignara uno.&lt;/p&gt;
+
+&lt;p&gt;La vida es una escala de grises - el punto no esta en identificarte con un producto, el punto no esta en poner todo tu valor en una cosa - si la tienes OK, si no la tienes también, mucha gente tiende a pensar en blanco y negro: Eres ascético o eres materialista, sin entender que entre 0 y 1 existen infinitos números - es ahí donde tienes que ser capaz de reconocer donde puedes ejercer tu llamado en la vida y avanzar poco a poco, lo que Buddha describe como el &lt;em&gt;camino del medio&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Muchas veces la vida es capaz de sacarte de tus casillas y en esos momentos necesitas saber de que estas hecho a través de las pruebas que tu mismo te debes poner, entrenando, exigiéndote, tomando un tiempo para reflexionar y hacer las preguntas difíciles en vez de simplemente ir y seguir en la rutina del comfort, porque es especialista en disfrazarse de rutina.&lt;/p&gt;
+
+&lt;p&gt;Convertir los obstáculos en el camino como decía Marcus Aurelius es la única manera de poder mantener el enfoque, entender que nada bueno viene sin trabajo duro y constante - conocerte y dominar tus demonios, mantenerlos cerca para saber de lo que corres y como decía Socrates - &lt;em&gt;“La libertad real del individuo llega hasta donde llega su propio autocontrol.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.azquotes.com/picture-quotes/quote-those-who-will-not-govern-themselves-are-condemned-to-find-masters-to-govern-over-them-steven-pressfield-82-25-52.jpg&quot; alt=&quot;Govern&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;nota-final&quot;&gt;Nota Final&lt;/h3&gt;
+
+&lt;p&gt;Saber de que estas hecho, superarte a ti mismo, siempre es tiempo bien usado - aprendamos a filtrar la señal del ruido, entender que muchas veces la resistencia nos engaña y nos hace pensar que estamos haciendo cuando en realidad estamos consumiendo, &lt;em&gt;Una cosa es estudiar la guerra la otra es vivir la vida del guerrero&lt;/em&gt; - sea el arte que estés llamado a hacer, toma acción, poco a poco ira tomando forma.&lt;/p&gt;
+
+&lt;p&gt;El siguiente paso es &lt;em&gt;volverte pro&lt;/em&gt; conocer las tecnicas de tu arte (liderazgo, mecánica, matemáticas,  musica, pintura, escultura, entrenamiento de perros, escritura), hacer el trabajo por amor al arte - no es fácil, avanzar poco a poco y confiar en el proceso.&lt;/p&gt;
+
+&lt;p&gt;Nuestro trabajo principal debe ser encontrar esa fuerza interior trabajarla todos los días y ser capaces de reconocer donde estamos fallando y no perder el enfoque.&lt;/p&gt;
+
+&lt;h3 id=&quot;fragmentos-de-the-iron-and-the-soul---henry-rollins&quot;&gt;Fragmentos de “The Iron And The Soul - Henry Rollins”&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://petesect18.github.io/notas/assets/rollins.jpg&quot; alt=&quot;Rollins&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“The Iron never lies to you. You can walk outside and listen to all kinds of talk, get told that you’re a god or a total bastard. The Iron will always kick you the real deal. The Iron is the great reference point, the all-knowing perspective giver. Always there like a beacon in the pitch black. I have found the Iron to be my greatest friend. It never freaks out on me, never runs. Friends may come and go. But two hundred pounds is always two hundred pounds.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“I used to think that it was my adversary, that I was trying to lift that which does not want to be lifted. I was wrong. When the Iron doesn’t want to come off the mat, it’s the kindest thing it can do for you If it flew up and went through the ceiling, it wouldn’t teach you anything. That’s the way the Iron talks to you. It tells you that the material you work with is that which you will come to resemble.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“Strength is kindness and sensitivity. Strength is understanding that your power is both physical and emotional. That it comes from the body and the mind. And the heart.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;mas-información&quot;&gt;Mas información&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.njlifehacks.com/voluntary-discomfort-the-stoic-practice-that-gets-you-comfortable-being-uncomfortable/&quot;&gt;Voluntary Discomfort&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.endofthreefitness.com/killing-comfort/&quot;&gt;Killing Comfort&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.oldtimestrongman.com/articles/the-iron-by-henry-rollins/&quot;&gt;The Iron And The Soul&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_War_of_Art_(book)&quot;&gt;The War Of Art&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Do_the_Work&quot;&gt;Do The Work&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name>Pedro</name></author><category term="life" /><summary type="html">“Una vida de comfort”, “Cosas que te harán la vida mas fácil”, “No pases trabajo”, etc…</summary></entry><entry><title type="html">Premeditatio Mallorum</title><link href="http://localhost:4000/life/2020/07/19/premeditatio.html" rel="alternate" type="text/html" title="Premeditatio Mallorum" /><published>2020-07-19T07:30:00-05:00</published><updated>2020-07-19T07:30:00-05:00</updated><id>http://localhost:4000/life/2020/07/19/premeditatio</id><content type="html" xml:base="http://localhost:4000/life/2020/07/19/premeditatio.html">&lt;p&gt;Desde que somos pequeños nos venden una falsa idea, la idea de que si dedicamos todo nuestro esfuerzo a algo, si le metemos empeño, alma, vida y corazón a las cosas, triunfaremos ante cualquier adversidad, como Odiseo en la Iliada o como Spiderman en los comics y peliculas.&lt;/p&gt;
+
+&lt;p&gt;La realidad es un poco mas compleja, con esto no quiero decir que las cosas vienen sin esfuerzo o que esta bien conformarse y no intentar nada porque vas a fallar, lo que recomiendo aquí es tener un punto de vista objetivo sobre las diferentes situaciones y entender que muchas de las mismas no están dentro de nuestro control, &lt;strong&gt;El progreso no es lineal&lt;/strong&gt;, va en zig zag e inclusive se regresa, depende de nosotros mantener el ojo en la meta y &lt;strong&gt;seguir&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nuestra sociedad moderna (y nosotros como seres humanos) vemos solo lo superficial, pensamos que todo debe ir según nuestros planes y en linea recta, sin embargo como decia Seneca - A la fortuna no le interesan nuestros planes, no le interesa nuestro progreso, y si no nos preparamos para afrontar esas realidades, vamos a perder el rumbo, vamos a perder las ganas de seguir y si no seguimos (aun así sea por otros caminos) terminaremos canzados y con el corazon roto.&lt;/p&gt;
+
+&lt;h2 id=&quot;progress&quot;&gt;Progress&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://b3gym.com/wp-content/uploads/2019/01/fullsizeoutput_2e.jpeg&quot; alt=&quot;Progreso&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;premeditatio-mallorum&quot;&gt;Premeditatio Mallorum&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://howtobeastoic.files.wordpress.com/2015/03/a-storm-shipwreck.jpg&quot; alt=&quot;Premeditatio&quot; /&gt;
+Este es un concepto que data de unos 2mil años atrás, que se enfoca en pensar en las cosas que pueden ir mal y las cosas que podrías perder cuando te quieres embarcar en una aventura con el único propósito de &lt;strong&gt;entender&lt;/strong&gt; los obstáculos que vas a tener y &lt;strong&gt;resistir&lt;/strong&gt; lo que la vida te tira en el camino.&lt;/p&gt;
+
+&lt;p&gt;Si, es “pensamiento negativo”, en una sociedad de felicidad en donde todos logran sus sueños si se esfuerzan puede que suene como un concepto radical y se malinterprete - pero es tan sencillo como pensar que el hombre sabio debe estar un paso adelante y prepararse para los problemas y dificultades, psicológica, financiera y físicamente.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Una persona &lt;strong&gt;cobarde&lt;/strong&gt; ve un tigre y se esconde, depende de cuando el tigre quiera irse (si es que se llega a ir), es víctima de las circunstancias, probablemente muera quejándose bajo una roca.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Una persona &lt;strong&gt;imprudente&lt;/strong&gt; va de frente hacia el tigre, sin un plan, sin piedras, ni nada para espantarlo, solo con su pensamiento positivo.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Una persona &lt;strong&gt;valiente&lt;/strong&gt; analiza la situación, ve que herramientas tiene a su disposición, busca opciones, se enfrenta a la amenaza armado y con diferentes planes para poder triunfar, sabiendo que el resultado no depende de el pero afrontándolo de la mejor manera posible.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Una de las grandes ventajas de la “Premeditacion de los males” es que te hace mas perseverante, tu ya sabes que estos problemas iban a aparecer, inclusive tienes un plan para enfrentarte a ellos - tenemos que tener claro que la visualización negativa de las cosas no es para paralizarnos, no es para quedarnos pensando en el peor escenario posible, ni autosabotearnos, no caigamos en el error de dejar de intentarlo o perder el enfoque en la meta porque “Ya yo sabia que esto iba a pasar”&lt;/p&gt;
+
+&lt;p&gt;Muchas veces aprendemos “a la mala” que el mundo esta dominado por factores externos, no siempre tenemos lo que queremos aunque sea nuestro, o aunque nos lo hayamos ganado y tenemos que prepararnos para que eso pase, si nos hemos preparado para los obstáculos que encontramos en el camino, podemos convertirlos EN el camino - seremos como el corredor que entrena en las montañas para ser mejor que el corredor que espera que todos los caminos sean planos.&lt;/p&gt;
+
+&lt;h2 id=&quot;anticipar&quot;&gt;Anticipar&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Visualiza en tu mente, exilio, torturas, guerras, naufragios, todos las posibilidades de problemas deben estar ante nuestros ojos. &lt;strong&gt;-Seneca&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Visualizar adversidades en la vida nos ayuda también a ver “el desenlace”, no basta con solo imaginarte lo malo que puede pasar (lo cual causa ansiedad si te quedas ahí), ya que estas en eso y es solo tu imaginación - el desenlace te ayuda a pensar que harías si eso pasara, te daras cuenta que la vida sigue, y que probablemente estarás bien.&lt;/p&gt;
+
+&lt;p&gt;Imaginar cosas como:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Perder tu trabajo.&lt;/li&gt;
+  &lt;li&gt;Que te boten de la U.&lt;/li&gt;
+  &lt;li&gt;Ir a la cárcel por un crimen que no cometiste&lt;/li&gt;
+  &lt;li&gt;Perder tus piernas, quedar ciego.&lt;/li&gt;
+  &lt;li&gt;Perder tus ahorros en una mala inversión.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Imaginar estas dificultades te ayudara a ser mas resiliente, a entender que no controlas lo que te pasa, pero controlas como reaccionas a lo que te pasa, no controlas el desenlace del juego pero controlas como juegas y la idea siempre es seguir adelante.&lt;/p&gt;
+
+&lt;h2 id=&quot;sufrimiento-y-perdida&quot;&gt;Sufrimiento y Perdida&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;El mundo esta afligido por la muerte y la descomposicion, pero el hombre sabio no se lamenta porque entendio la naturaleza del mundo - &lt;strong&gt;Buddha&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;En algún momento u otro perdemos o perderemos algo - seres queridos, la salud, nuestras memorias, nuestro dinero, nuestros lentes, nuestras llaves, etc…&lt;/p&gt;
+
+&lt;p&gt;El concepto de impermanencia es algo que los Budistas tienen muy claro.&lt;/p&gt;
+
+&lt;p&gt;Si observamos cuidadosamente en la naturaleza lo veremos, si observamos cuidadosamente nuestras vidas también lo veremos ahí, nada es lo que era ayer ni sera lo mismo mañana - todos vamos a sufrir nuestras perdidas… como las manejamos es lo que realmente hace diferencia.&lt;/p&gt;
+
+&lt;p&gt;Cuando respiras un momento se pierde, se va y uno nuevo entra - respirar es renovarse y así mismo es la vida, no aferrarnos al pasado, dejar que lo que hemos perdido continue su camino y nosotros también, no es facil pero como decia Nietzche y es un tema que he tocado en diferentes escritos aqui, ese Amor al Destino (Amor Fati) nos hace entender que nada es para siempre y nada es nuestro, que (&lt;em&gt;por mas cliche que suene&lt;/em&gt;) disfrutar cada momento junto a nuestros seres queridos es lo único que nos queda, aceptarle a la fortuna, dios, odin, la impermanencia de las cosas y las personas, sin suprimir lo que sentimos pero tampoco dejar a la mente dejarse llevar en trenes de pensamiento excesivo que no hace ningún bien.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://freeimagesetc.files.wordpress.com/2010/12/img_9660.jpg&quot; alt=&quot;Sunrise&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;en-que-nos-ayuda&quot;&gt;En que nos ayuda&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Gratitud&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Apreciar lo que tenemos (personas, cosas)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Preparacion al futuro&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;No todo se mantendra igual siempre, el cambio es constante&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mantener el enfoque&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Sabemos a donde queremos llegar y que encontraremos obstáculos en el camino, nos preparamos para fallar y estamos listos para triunfar.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Todo lo que podemos hacer hoy sea cualquier tipo de obstáculo que hayamos encontrado (financiero, un negocio cerrado, sin trabajo, luto por una persona que perdimos) &lt;strong&gt;es seguir&lt;/strong&gt;, no importan los giros del camino debemos seguir moviéndonos hacia adelante y preparándonos para lo que viene.&lt;/p&gt;
+
+&lt;h4 id=&quot;mas-información&quot;&gt;Mas información&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://thestoicsage.com/premeditatio-malorum-the-art-of-negative-visualization/&quot;&gt;Premeditatio Mallorum&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://ryanholiday.net/practice-the-stoic-art-of-negative-visualization/&quot;&gt;Negative Visualization&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://tricycle.org/magazine/practicing-loss/&quot;&gt;Practicing Loss&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://medium.com/@ozehlaw/premeditatio-malorum-the-most-important-thinking-skill-that-nobody-taught-you-acdaa4743acf&quot;&gt;The most important skill that nobody taught you&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://dailystoic.com/premeditatio-malorum/&quot;&gt;Premeditation Mallorum II&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name>Pedro</name></author><category term="life" /><summary type="html">Desde que somos pequeños nos venden una falsa idea, la idea de que si dedicamos todo nuestro esfuerzo a algo, si le metemos empeño, alma, vida y corazón a las cosas, triunfaremos ante cualquier adversidad, como Odiseo en la Iliada o como Spiderman en los comics y peliculas.</summary></entry><entry><title type="html">Anti-Fragilidad</title><link href="http://localhost:4000/life/2020/06/12/antifragilidad.html" rel="alternate" type="text/html" title="Anti-Fragilidad" /><published>2020-06-12T07:30:00-05:00</published><updated>2020-06-12T07:30:00-05:00</updated><id>http://localhost:4000/life/2020/06/12/antifragilidad</id><content type="html" xml:base="http://localhost:4000/life/2020/06/12/antifragilidad.html">&lt;p&gt;En mi post anterior hice un pequeño análisis de la resiliencia y porque es importante desarrollarla en este mundo moderno, me gustaría exponer mi punto de vista en un concepto llamado “ANTI-FRAGILIDAD”.&lt;/p&gt;
+
+&lt;p&gt;La anti-fragilidad va mas allá de la resiliencia, de hecho esta en el espectro de la fragilidad ya que nos la hace entender mejor, cuando se es resiliente cualquier tipo de cambio no te afecta de manera negativa (lo cual es genial) cuando eres anti-fragil cualquier cambio te hace mas fuerte.&lt;/p&gt;
+
+&lt;p&gt;Piensa en la Hydra, que cuando le cortaban la cabeza salían dos o en Goku, que después de la pelea con Vegetta regreso mucho mas fuerte y de hecho buscaba pelear con guerreros mas fuertes que el porque así incrementaba su poder.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://fpif.org/wp-content/uploads/2015/05/hyrda-middle-east-isis.jpg&quot; alt=&quot;Hydra&quot; title=&quot;Foto: Foreign Policy in focus&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Los sistemas complejos (como nuestra vida) son destruidos cuando les remueves las dificultades ya que se nutren de ellas.&lt;/p&gt;
+
+&lt;p&gt;Este concepto fue introducido por el escritor Nassim Taleb para proponer una idea que existe en el mundo real, que son las cosas que se benefician del lo inesperado.&lt;/p&gt;
+
+&lt;p&gt;Y lo inesperado es parte del día a día, volatilidad económica, cambios inesperados, crisis, pandemias - parte de la vida pero que como seres humanos dentro de nuestras burbujas de comfort habíamos olvidado.
+ ## Triada ##&lt;/p&gt;
+
+&lt;p&gt;Asi como el tri-tono(&lt;em&gt;diabolus in musica&lt;/em&gt;) que se compone de tres tonos completos seguidos, anti-fragilidad, fragilidad y resiliencia vienen en un solo paquete, en una triada.&lt;/p&gt;
+
+&lt;p&gt;Todas las organizaciones, cosas e ideas caben dentro de esta triada y Nassim Taleb lo ejemplifica utilizando mitos conocidos: Espada de Damocles, El Fenix y La Hydra.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpermaculturenews.org%2Fimages%2Fantifragile_chart.jpg&amp;amp;f=1&amp;amp;nofb=1&quot; alt=&quot;UML PIC OF TRIAD&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;frágil&quot;&gt;&lt;strong&gt;Frágil&lt;/strong&gt;:&lt;/h3&gt;
+&lt;p&gt;Prefieren tranquilidad porque sufren fácilmente o inclusive se rompen completamente durante tiempos difíciles, un ejemplo es la espada de Damocles.&lt;/p&gt;
+
+&lt;p&gt;Damocles era un man que envidiaba la posición del rey, un día, el rey le dijo que viniera y se sentara en el trono a lo cual Damocles accede.&lt;/p&gt;
+
+&lt;p&gt;Lo que Damocles no sabia que el rey había puesto una espada colgada del pelo de un caballo sobre el trono, y al momento que el pelo se rompiera, mataría a quien fuera que estuviera bajo el trono.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ser rey ya no era tan llamativo&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Otro ejemplo es tener deudas de consumo, todo esta OK cuando tienes trabajo y puedes pagarlas pero si de repente tienes un imprevisto grande o te quedas sin trabajo - te cae la espada.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Características de las cosas frágiles&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Dependen de factores externos para mitigar stress y/o problemas&lt;/strong&gt;: JP Morgan en el 2008 y las grandes empresas de automóviles pidiéndole “ayuda al gobierno” para que los salve de la crisis.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Estan extremadamente optimizadas&lt;/strong&gt;: En un mundo de eficiencia, podrías creer que es bueno pero la eficiencia y el camino mas corto fácilmente nos lleva al camino de la fragilidad porque no tenemos espacio de maniobra.
+    &lt;ul&gt;
+      &lt;li&gt;Un ejemplo sencillo es cuando hacemos nuestros planes de viaje, lo queremos optimizar tanto que hacemos escalas de 45 minutos (el tiempo suficiente para ir de una terminal a otra) cuando de repente migración esta llena, o te detienen por X o Y Razón, cualquier imprevisto en tu plan, destruye tu plan!&lt;/li&gt;
+      &lt;li&gt;Lo veo mucho también en la planeacion del día a día o los compromisos, vamos a estar en X lugar a YY:YY pero antes voy para Z sin tomar en cuenta que en Z la gente se demora o algo puede ocurrir, creando ansiedad e impidiéndote disfrutar el tiempo por no dejar espacio para imprevistos.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Son grandes&lt;/strong&gt;: Como diría Fat Mike “Dinousaurs Will Die” - cualquier cosa demasiado grande no se adapta de manera fácil a tiempos de cambio, cae el meteorito y los grandes reptiles que dominaron el mundo terminan su existencia por su incapacidad de adaptarse al mundo cambiante. “&lt;em&gt;Es cool ser grande hasta que cae el meteorito.&lt;/em&gt;””&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quieren eliminar cualquier variabilidad en su vida o sistema&lt;/strong&gt;: Como dependen de factores externos para mitigar el stress, los sistemas y personas frágiles tienden a eliminar las dificultades de su vida, pero al hacerlo, la hacen peor porque las dificultades van a llegar, tarde o temprano - un ejemplo claro son los padres que remueven cualquier tipo de obstáculos de la vida de sus hijos, tratando de que la vida de sus hijos sea lo mas “safe” posible, terminan debilitándolos y haciéndolos frágiles, &lt;strong&gt;no evolucionamos para vivir en comfort&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;la-establiidad-es-una-bomba-de-tiempo&quot;&gt;&lt;strong&gt;La establiidad es una bomba de tiempo&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;*“El Pavo era feliz, todos los dias a la misma hora recibia comida, podia andar alrededor del corral siempre y cuando no se saliera de la cerca que el patron le habia puesto, transcurrian los meses tranquilos hasta que un dia, perdio la cabeza de la mano de su patron, era el dia de accion de gracias”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmassacademy.files.wordpress.com%2F2013%2F12%2Fturkey_clipart.jpg&amp;amp;f=1&amp;amp;nofb=1&quot; alt=&quot;Pavo&quot; /&gt;
+Para el pavo, el día de acción de gracias fue un episodio aislado en toda su vida - ya que el resto de los días habían transcurrido “normalmente”, muchas veces, nos comportamos como el pavo - viviendo nuestra vida sin diferenciar la estabilidad real, de la estabilidad falsa (como la de nuestro amigo el pavo)&lt;/p&gt;
+
+&lt;p&gt;A todos nos gusta la paz, pero esa paz no depende de otro - depende de ti, las acciones que tomes y que tanto seas capaz de romper modelos mentales que te mantienen atrapado (como la falsa estabilidad)&lt;/p&gt;
+
+&lt;h2 id=&quot;resiliente&quot;&gt;&lt;strong&gt;Resiliente&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Hable un poco sobre la resiliencia en mi post anterior y como podemos desarrollarla, esto nos permite que independientemente de cualquier situación hostil seamos capaces no solo de mantener la calma sino tambien de seguir adelante y usar las opciones que tienes a tu disposición.&lt;/p&gt;
+
+&lt;p&gt;Budismo, el punk, el hardcore y el estoicismo nos enseñan a ser mentalmente resilientes en un mundo de cambios constantes y te hacen plantearte cuales son las cosas que necesitas para ser feliz - en donde siempre que dependas de lo externo, no lograras la libertad individual.&lt;/p&gt;
+
+&lt;p&gt;El resiliente es indiferente a los tiempos buenos y malos, ya que está entiende que lo único capaz de controlar es su situación mental y actúa sobre ello - lo demás, son obstáculos a superar.&lt;/p&gt;
+
+&lt;p&gt;Ahora, lo que plantea Taleb, es que para ser realmente buenos, efectivos en un mundo que se mueve demasiado rápido (y siempre ha sido así) es moverte de la resiliencia a la anti-fragilidad.&lt;/p&gt;
+
+&lt;h2 id=&quot;anti-fragil&quot;&gt;&lt;strong&gt;Anti-Fragil&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Las cosas que son antifragiles crecen y se hacen fuertes a partir del stress y la volatilidad (Piensa en Goku).
+&lt;img src=&quot;https://i.pinimg.com/236x/d2/f9/5c/d2f95cf2b23076db471a0e3afcb00f10.jpg&quot; alt=&quot;&amp;quot;Goku&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Otro ejemplo ya antes expuesto es la Hydra, monstruo de varias cabezas que le crecian dos cuando cortabas una, hasta que Hercules se dio cuenta que cauterizando la herida la cabeza no volvia a crecer (hasta los sistemas mas anti-fragiles expuestos a mucho stress se rompen)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Caracteristicas de las cosas anti-fragiles&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Paga ser pequeño&lt;/strong&gt;: Hablando de dinosaurios cuando cayo el meteorito, los únicos que sobrevivieron fueron nuestros antepasados mamíferos que no eran mas grandes que una rata, las tortugas y los lagartos mas pequeños, esto fue porque eran mas agiles y flexibles durante tiempos de caos (en mi post de resiliencia hable del bambu), mientras mas capacidad tengas de maniobrar, mejor - piensa en Anonymous, una organización de hackers que se mantiene “pequeña” porque esta descentralizada.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Redundancias&lt;/strong&gt;: La naturaleza es el mejor ejemplo, los animales tienen dos pulmones, dos ovarios, dos riñones, dos testículos - paga tener un par en caso tal uno se dañe, la vida continua.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Crecer en stress&lt;/strong&gt;: Una de las cosas mas importantes de la anti-fragilidad es como hay ejemplos en nuestro propio cuerpo, los músculos necesitan stress para crecer, los huesos necesitan stress para hacerse fuertes, imagínense estar todo el día tirao en un sillón o cuando tienes un accidente y estas en cama - los músculos se atrofian, dejan de crecer.
+    &lt;ul&gt;
+      &lt;li&gt;Lo importante es que el stress no sea lo suficientemente grande para terminar de romper el sistema (Deadlift de 1000lbs cuando solo alzas 400 normalmente)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;desarrollando-anti-fragilidad&quot;&gt;&lt;strong&gt;Desarrollando Anti-Fragilidad&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Decia Vladimir Lenin - “Hay decadas en las que no pasa nada, y hay semanas en las que pasan decadas”
+&lt;img src=&quot;https://i.redd.it/kisly9pjylk31.jpg&quot; alt=&quot;Lenin&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Y es en esas semanas en donde los que no se han dedicado a ser anti-fragiles (o resilientes al menos) en donde es muy probable que se rompan, desaparezcan o al menos tendrán mas problemas que los otros dos.&lt;/p&gt;
+
+&lt;p&gt;A lo largo de mi vida he hablado de balance (aunque el que me conoce sabe que después de 12 cervezas no lo hay), pero hay que ejercerlo, El equilibrio es el balance entre fuerzas opuestas - sobriedad vs borrachera, fuerza vs debilidad, etc…&lt;/p&gt;
+
+&lt;p&gt;Nuestra vida es un sistema complejo, enfocarnos demasiado en el comfort en una sociedad que no solo lo vende sino que también lo idealiza nos quita nuestra capacidad innata de seguir avanzando frente a la adversidad, hey, eres genes que han sobrevivido a través de generaciones, que dirían tus ancestros del paleolítico si te ven quejándote de que tu vida es difícil? que diría tu ancestro de la era medieval? o de la era de la colonia (de cualquiera de los dos lados que hayas estado, Americano o Europeo, no la tenían fácil en ninguno de los dos lados del atlántico)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Agrega redundancia a tu vida y ten opciones&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Diferentes fuentes de ingreso, diferentes hobbies, jamas mezcles lo que eres con lo que haces - porque las circunstancias pueden obligarte a cambiar lo que haces.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Agradece y aprende de tus errores&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;Mientras mas errores cometas, preferiblemente al comienzo, mejor - se rápido para fallar y ágil para corregir&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Premeditatio Mallorum:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Esto es un concepto estoico, practica en tu mente el peor escenario y prepárate para el, no quiere decir que seas pesimista porque el pesimista no actúa.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Invierte en buenas acciones:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Los humanos evolucionamos en favores, estamos programados genéticamente para sentirnos bien cuando hacemos algo bueno por el prójimo, somos una parte mínima de una gran cadena, el claro ejemplo es el mundo globalizado e interconectado en el que vivimos, pero así mismo es el peor - ya que hay demasiado ruido y no somos capaces de filtrar la senal.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;No tomes consejos de expertos “de papelillo”&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Si no lo ha hecho y no tiene energía metida en el tema, no tienes que tomar su palabra como la verdad absoluta, el mundo esta lleno de “expertos” que deciden sobre las cosas de los demas sin tener nada que perder, ejemplo: Los legisladrones decidiendo sobre la educacion publica teniendo a sus hijos en las escuelas privadas mas exclusivas del país.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Resiste la intervencion&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;El creador de políticas económicas que piensa que la intervención es necesaria para la estabilidad, muchas veces la intervención es peor que simplemente dejar que las cosas sigan su curso, volviendo al ejemplo de los hijos, mientras mas intervención de los padres para que tengan una vida “feliz” se va convirtiendo en un rendimiento decreciente.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Wu Wei&lt;/em&gt; es el arte de la ir con el ritmo natural de la vida, adaptándonos a las cosas que vienen sin tratar de forzar el camino (bambú, no roble), aprender a fluir sin meter mano para que las cosas sean como queremos.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;nota-final&quot;&gt;Nota Final&lt;/h2&gt;
+&lt;p&gt;Este concepto en donde no solo resistes la adversidad pero ganas de ella evoca el viejo adagio de Nietzche “Lo que no mata me hace mas fuerte” es importante aplicarlo en nuestra vida personal y familiar, al final somos los únicos dueños de nuestro destino y los únicos capaces de poder hacer cambios importantes no solo en nuestro circulo personal sino también social y comunitario.&lt;/p&gt;
+
+&lt;p&gt;En el mundo volátil y cambiante en el que vivimos en donde la televisión como los políticos se benefician de vender “la estabilidad del pavo” a las personas tenemos que romper los paradigmas mentales y las historias que cada uno de nosotros se dice, para tomar riesgos controlados en donde la ganancia sea superior a la perdida.&lt;/p&gt;
+
+&lt;p&gt;Degradar el valor de las posesiones materiales, no ser esclavo de ellas y robustecer nuestra parte emocional, siempre prevee para lo peor y lo bueno se encarga de si mismo.&lt;/p&gt;
+
+&lt;h4 id=&quot;mas-información&quot;&gt;Mas información&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680&quot;&gt;Anti-Fragile&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://anti-fragilista.com/&quot;&gt;Anti-Fragilista&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://jackthescribbler.com/2012/12/nassim-nicholas-taleb-on-the-fragilista-from-antifragile/&quot;&gt;Taleb on the fragilista&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.artofmanliness.com/articles/two-is-one-and-one-is-none-how-redundancies-increase-your-antifragility/&quot;&gt;How redundancies increase your Anti-Fragility&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://dailystoic.com/premeditatio-malorum/&quot;&gt;Premeditation Mallorum&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Wu_wei&quot;&gt;Wu Wei&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name>Pedro</name></author><category term="life" /><summary type="html">En mi post anterior hice un pequeño análisis de la resiliencia y porque es importante desarrollarla en este mundo moderno, me gustaría exponer mi punto de vista en un concepto llamado “ANTI-FRAGILIDAD”. La anti-fragilidad va mas allá de la resiliencia, de hecho esta en el espectro de la fragilidad ya que nos la hace entender mejor, cuando se es resiliente cualquier tipo de cambio no te afecta de manera negativa (lo cual es genial) cuando eres anti-fragil cualquier cambio te hace mas fuerte. Piensa en la Hydra, que cuando le cortaban la cabeza salían dos o en Goku, que después de la pelea con Vegetta regreso mucho mas fuerte y de hecho buscaba pelear con guerreros mas fuertes que el porque así incrementaba su poder. Los sistemas complejos (como nuestra vida) son destruidos cuando les remueves las dificultades ya que se nutren de ellas. Este concepto fue introducido por el escritor Nassim Taleb para proponer una idea que existe en el mundo real, que son las cosas que se benefician del lo inesperado. Y lo inesperado es parte del día a día, volatilidad económica, cambios inesperados, crisis, pandemias - parte de la vida pero que como seres humanos dentro de nuestras burbujas de comfort habíamos olvidado. ## Triada ## Asi como el tri-tono(diabolus in musica) que se compone de tres tonos completos seguidos, anti-fragilidad, fragilidad y resiliencia vienen en un solo paquete, en una triada. Todas las organizaciones, cosas e ideas caben dentro de esta triada y Nassim Taleb lo ejemplifica utilizando mitos conocidos: Espada de Damocles, El Fenix y La Hydra. Frágil: Prefieren tranquilidad porque sufren fácilmente o inclusive se rompen completamente durante tiempos difíciles, un ejemplo es la espada de Damocles. Damocles era un man que envidiaba la posición del rey, un día, el rey le dijo que viniera y se sentara en el trono a lo cual Damocles accede. Lo que Damocles no sabia que el rey había puesto una espada colgada del pelo de un caballo sobre el trono, y al momento que el pelo se rompiera, mataría a quien fuera que estuviera bajo el trono. Ser rey ya no era tan llamativo Otro ejemplo es tener deudas de consumo, todo esta OK cuando tienes trabajo y puedes pagarlas pero si de repente tienes un imprevisto grande o te quedas sin trabajo - te cae la espada. Características de las cosas frágiles Dependen de factores externos para mitigar stress y/o problemas: JP Morgan en el 2008 y las grandes empresas de automóviles pidiéndole “ayuda al gobierno” para que los salve de la crisis. Estan extremadamente optimizadas: En un mundo de eficiencia, podrías creer que es bueno pero la eficiencia y el camino mas corto fácilmente nos lleva al camino de la fragilidad porque no tenemos espacio de maniobra. Un ejemplo sencillo es cuando hacemos nuestros planes de viaje, lo queremos optimizar tanto que hacemos escalas de 45 minutos (el tiempo suficiente para ir de una terminal a otra) cuando de repente migración esta llena, o te detienen por X o Y Razón, cualquier imprevisto en tu plan, destruye tu plan! Lo veo mucho también en la planeacion del día a día o los compromisos, vamos a estar en X lugar a YY:YY pero antes voy para Z sin tomar en cuenta que en Z la gente se demora o algo puede ocurrir, creando ansiedad e impidiéndote disfrutar el tiempo por no dejar espacio para imprevistos. Son grandes: Como diría Fat Mike “Dinousaurs Will Die” - cualquier cosa demasiado grande no se adapta de manera fácil a tiempos de cambio, cae el meteorito y los grandes reptiles que dominaron el mundo terminan su existencia por su incapacidad de adaptarse al mundo cambiante. “Es cool ser grande hasta que cae el meteorito.”” Quieren eliminar cualquier variabilidad en su vida o sistema: Como dependen de factores externos para mitigar el stress, los sistemas y personas frágiles tienden a eliminar las dificultades de su vida, pero al hacerlo, la hacen peor porque las dificultades van a llegar, tarde o temprano - un ejemplo claro son los padres que remueven cualquier tipo de obstáculos de la vida de sus hijos, tratando de que la vida de sus hijos sea lo mas “safe” posible, terminan debilitándolos y haciéndolos frágiles, no evolucionamos para vivir en comfort. La establiidad es una bomba de tiempo *“El Pavo era feliz, todos los dias a la misma hora recibia comida, podia andar alrededor del corral siempre y cuando no se saliera de la cerca que el patron le habia puesto, transcurrian los meses tranquilos hasta que un dia, perdio la cabeza de la mano de su patron, era el dia de accion de gracias” Para el pavo, el día de acción de gracias fue un episodio aislado en toda su vida - ya que el resto de los días habían transcurrido “normalmente”, muchas veces, nos comportamos como el pavo - viviendo nuestra vida sin diferenciar la estabilidad real, de la estabilidad falsa (como la de nuestro amigo el pavo) A todos nos gusta la paz, pero esa paz no depende de otro - depende de ti, las acciones que tomes y que tanto seas capaz de romper modelos mentales que te mantienen atrapado (como la falsa estabilidad) Resiliente Hable un poco sobre la resiliencia en mi post anterior y como podemos desarrollarla, esto nos permite que independientemente de cualquier situación hostil seamos capaces no solo de mantener la calma sino tambien de seguir adelante y usar las opciones que tienes a tu disposición. Budismo, el punk, el hardcore y el estoicismo nos enseñan a ser mentalmente resilientes en un mundo de cambios constantes y te hacen plantearte cuales son las cosas que necesitas para ser feliz - en donde siempre que dependas de lo externo, no lograras la libertad individual. El resiliente es indiferente a los tiempos buenos y malos, ya que está entiende que lo único capaz de controlar es su situación mental y actúa sobre ello - lo demás, son obstáculos a superar. Ahora, lo que plantea Taleb, es que para ser realmente buenos, efectivos en un mundo que se mueve demasiado rápido (y siempre ha sido así) es moverte de la resiliencia a la anti-fragilidad. Anti-Fragil Las cosas que son antifragiles crecen y se hacen fuertes a partir del stress y la volatilidad (Piensa en Goku). Otro ejemplo ya antes expuesto es la Hydra, monstruo de varias cabezas que le crecian dos cuando cortabas una, hasta que Hercules se dio cuenta que cauterizando la herida la cabeza no volvia a crecer (hasta los sistemas mas anti-fragiles expuestos a mucho stress se rompen) Caracteristicas de las cosas anti-fragiles Paga ser pequeño: Hablando de dinosaurios cuando cayo el meteorito, los únicos que sobrevivieron fueron nuestros antepasados mamíferos que no eran mas grandes que una rata, las tortugas y los lagartos mas pequeños, esto fue porque eran mas agiles y flexibles durante tiempos de caos (en mi post de resiliencia hable del bambu), mientras mas capacidad tengas de maniobrar, mejor - piensa en Anonymous, una organización de hackers que se mantiene “pequeña” porque esta descentralizada. Redundancias: La naturaleza es el mejor ejemplo, los animales tienen dos pulmones, dos ovarios, dos riñones, dos testículos - paga tener un par en caso tal uno se dañe, la vida continua. Crecer en stress: Una de las cosas mas importantes de la anti-fragilidad es como hay ejemplos en nuestro propio cuerpo, los músculos necesitan stress para crecer, los huesos necesitan stress para hacerse fuertes, imagínense estar todo el día tirao en un sillón o cuando tienes un accidente y estas en cama - los músculos se atrofian, dejan de crecer. Lo importante es que el stress no sea lo suficientemente grande para terminar de romper el sistema (Deadlift de 1000lbs cuando solo alzas 400 normalmente) Desarrollando Anti-Fragilidad Decia Vladimir Lenin - “Hay decadas en las que no pasa nada, y hay semanas en las que pasan decadas” Y es en esas semanas en donde los que no se han dedicado a ser anti-fragiles (o resilientes al menos) en donde es muy probable que se rompan, desaparezcan o al menos tendrán mas problemas que los otros dos. A lo largo de mi vida he hablado de balance (aunque el que me conoce sabe que después de 12 cervezas no lo hay), pero hay que ejercerlo, El equilibrio es el balance entre fuerzas opuestas - sobriedad vs borrachera, fuerza vs debilidad, etc… Nuestra vida es un sistema complejo, enfocarnos demasiado en el comfort en una sociedad que no solo lo vende sino que también lo idealiza nos quita nuestra capacidad innata de seguir avanzando frente a la adversidad, hey, eres genes que han sobrevivido a través de generaciones, que dirían tus ancestros del paleolítico si te ven quejándote de que tu vida es difícil? que diría tu ancestro de la era medieval? o de la era de la colonia (de cualquiera de los dos lados que hayas estado, Americano o Europeo, no la tenían fácil en ninguno de los dos lados del atlántico) Agrega redundancia a tu vida y ten opciones Diferentes fuentes de ingreso, diferentes hobbies, jamas mezcles lo que eres con lo que haces - porque las circunstancias pueden obligarte a cambiar lo que haces. Agradece y aprende de tus errores: Mientras mas errores cometas, preferiblemente al comienzo, mejor - se rápido para fallar y ágil para corregir Premeditatio Mallorum: Esto es un concepto estoico, practica en tu mente el peor escenario y prepárate para el, no quiere decir que seas pesimista porque el pesimista no actúa. Invierte en buenas acciones: Los humanos evolucionamos en favores, estamos programados genéticamente para sentirnos bien cuando hacemos algo bueno por el prójimo, somos una parte mínima de una gran cadena, el claro ejemplo es el mundo globalizado e interconectado en el que vivimos, pero así mismo es el peor - ya que hay demasiado ruido y no somos capaces de filtrar la senal. No tomes consejos de expertos “de papelillo” Si no lo ha hecho y no tiene energía metida en el tema, no tienes que tomar su palabra como la verdad absoluta, el mundo esta lleno de “expertos” que deciden sobre las cosas de los demas sin tener nada que perder, ejemplo: Los legisladrones decidiendo sobre la educacion publica teniendo a sus hijos en las escuelas privadas mas exclusivas del país. Resiste la intervencion El creador de políticas económicas que piensa que la intervención es necesaria para la estabilidad, muchas veces la intervención es peor que simplemente dejar que las cosas sigan su curso, volviendo al ejemplo de los hijos, mientras mas intervención de los padres para que tengan una vida “feliz” se va convirtiendo en un rendimiento decreciente. Wu Wei es el arte de la ir con el ritmo natural de la vida, adaptándonos a las cosas que vienen sin tratar de forzar el camino (bambú, no roble), aprender a fluir sin meter mano para que las cosas sean como queremos. Nota Final Este concepto en donde no solo resistes la adversidad pero ganas de ella evoca el viejo adagio de Nietzche “Lo que no mata me hace mas fuerte” es importante aplicarlo en nuestra vida personal y familiar, al final somos los únicos dueños de nuestro destino y los únicos capaces de poder hacer cambios importantes no solo en nuestro circulo personal sino también social y comunitario. En el mundo volátil y cambiante en el que vivimos en donde la televisión como los políticos se benefician de vender “la estabilidad del pavo” a las personas tenemos que romper los paradigmas mentales y las historias que cada uno de nosotros se dice, para tomar riesgos controlados en donde la ganancia sea superior a la perdida. Degradar el valor de las posesiones materiales, no ser esclavo de ellas y robustecer nuestra parte emocional, siempre prevee para lo peor y lo bueno se encarga de si mismo. Mas información Anti-Fragile Anti-Fragilista Taleb on the fragilista How redundancies increase your Anti-Fragility Premeditation Mallorum Wu Wei</summary></entry><entry><title type="html">Resiliencia</title><link href="http://localhost:4000/life/2020/05/31/resiliencia.html" rel="alternate" type="text/html" title="Resiliencia" /><published>2020-05-31T07:30:00-05:00</published><updated>2020-05-31T07:30:00-05:00</updated><id>http://localhost:4000/life/2020/05/31/resiliencia</id><content type="html" xml:base="http://localhost:4000/life/2020/05/31/resiliencia.html">&lt;p&gt;No es un secreto para nadie que hay una crisis de salud mental alrededor del mundo occidental (y también en el este), aunque el mundo es mas seguro, la gente vive mas tiempo y tecnicamente el mundo es mas “rico”, los niveles de depresión y stress están por las nubes.&lt;/p&gt;
+
+&lt;p&gt;Como sociedad hemos alcanzado la cúspide del comfort (si no eres parte del billón de personas que viven en extrema pobreza en el mundo), tenemos una computadora en nuestro bolsillo, aires acondicionados, work/life balance, redes sociales que traen una ola de dopamina con cada like, vidas perfectas a través de una pantalla en donde todos ríen y nada esta mal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Y es precisamente el reflejo de nuestra sociedad, una sociedad de “sentirse bien” todo el tiempo&lt;/strong&gt; que va en contra de la naturaleza humana pero la televisión y los medios de comunicación han normalizado.&lt;/p&gt;
+
+&lt;p&gt;No estamos hechos para “sentirnos bien todo el tiempo” con esto no estoy diciendo que hay que ser pesimistas - pero en ese constante “optimismo conveniente”, querer aplaudir todo lo que se hace y dar premios por participar nos ha hecho frágiles y débiles mentalmente, nos ha creado un complejo de grandeza en lo que que todo es “el fin del mundo” y nos ofendemos por la mínima estupidez que vaya en contra de lo que pensamos es la verdad o lo correcto.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i0.kym-cdn.com/photos/images/facebook/001/284/874/d83.jpg&quot; alt=&quot;Alt-Right Sux&quot; title=&quot;Foto: Pinterest&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;De hecho, durante el 99.99% de la historia humana, todos los días eran una pelea contra los elementos, los animales y otros depredadores, un constante movimiento, pensar rápido, ningún día era igual al otro.&lt;/p&gt;
+
+&lt;h2 id=&quot;modernidad&quot;&gt;Modernidad&lt;/h2&gt;
+
+&lt;p&gt;Durante todo el siglo XX la humanidad dio pasos tecnológicos gigantes, pero podría dar un argumento que después de la segunda guerra mundial la “rutina” no ha cambiado mucho para gran parte de la humanidad, cualquier variante de levantarte, ir a una oficina o negocio, tener un jefe (o serlo), recibir un salario por tu conocimiento cualquiera que sea tu área de &lt;em&gt;expertise&lt;/em&gt; (“Knowledge Worker”), consume, procrea consumidores, muere.&lt;/p&gt;
+
+&lt;p&gt;Esa linealidad sumado al hecho de que nuestra evolución nos juega en contra (&lt;em&gt;tener un rush de dopamina en el paleolitico era que te aceptaran en la tribu porque si no pasabas morias en el invierno, hoy es “un like” de tu red social favorita&lt;/em&gt;) nos ha hecho dependientes del comfort y víctimas de  industrias que hacen billete monetizando tu atención y las ganas que tienes de mostrarle al mundo lo feliz que eres o te hacen dependiente de felicidad embotellada.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;http://georgiainfo.galileo.usg.edu/gastudiesimages/Paleo%20Indians%20Hunting%202.jpg&quot; /&gt;
+&lt;/p&gt;
+&lt;center&gt;&quot;Un dia en la oficina&quot; &lt;/center&gt;
+
+&lt;h2 id=&quot;dolor&quot;&gt;Dolor&lt;/h2&gt;
+&lt;p&gt;El dolor es parte de la gama de emociones que tenemos los seres humanos quere negarlo, enmascararlo con felicidad hippie o pastillas hace que nuestros cerebros del pleistoceno hagan corto circuito.&lt;/p&gt;
+
+&lt;p&gt;El problema con el optimismo extremo es que muchas veces las cosas no salen como esperas la realidad es que muchas cosas no dependen de ti, cuando James Stockdale estuvo preso en el “Hanoi Hotel” (Un campamento para prisioneros de guerra) supo que no iba a salir pronto, en cambio, muchos de los otros prisioneros que decían “vamos a salir en navidad!” llegaba navidad y no salían, “OK, para semana santa!” llegaba semana santa y no salían, eventualmente los mas optimistas morían, porque perdían las ganas de vivir.&lt;/p&gt;
+
+&lt;p&gt;Victor Frankl(Psiquiatra Judio) relata lo mismo en sus libros y escritos - “&lt;em&gt;Los cigarrillos eran el bien mas preciado, cuando veía que los otros prisioneros que habían pasado meses hablando de ver a sus familias cuando la guerra se acabara prendiendo un cigarrillo, sabia que estaban prontos a morir porque habían perdido toda esperanza&lt;/em&gt;”&lt;/p&gt;
+
+&lt;p&gt;El punto clave esta en aceptar la situacion como es &lt;strong&gt;amor fati&lt;/strong&gt; como diria Nietzche y ver como puedes hacer para salir de ahi, como puedes pelear, siempre teniendo un por que para seguir adelante.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s-media-cache-ak0.pinimg.com/736x/d3/59/0a/d3590aa0a68b33955177870ce9363569.jpg&quot; alt=&quot;Nietzhe&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El hardcore punk lo resume bastante bien con muchas de sus bandas, la actitud PMA (Positive Mental Attitude): “Estoy en una situación de mierd@ pero tengo que sacarme la chuch* para seguir adelante, nada me va a detener, porque soy imparable”&lt;/p&gt;
+
+&lt;p&gt;Desarrollar una mentalidad de aceptación, pero no de resignacion, aceptar es entender la situacion, unirte a ella y ver que carajo vas a hacer, resignarte es ver que esta ahi y ponerla bajo la alfombra, algún dia volverá a aparecer junto con el resto de cosas que pusiste ahi, ya que si entendemos que el cambio es la constante y no la excepción el mundo (y en nuestras vidas) y que el dolor (independientemente de lo que nuestra cultura de felicidad nos quiera hacer creer) es perfectamente normal.&lt;/p&gt;
+
+&lt;h2 id=&quot;como-desarrollarla&quot;&gt;Como desarrollarla?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Busca ayudar a los demas&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Te darás cuenta que eres capaz de cosas increíbles (levantarte temprano un sabado a donar comida, por ejemplo?)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ten un sistema de soporte&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Ten una red de soporte para ti, invierte en relaciones interpersonales, necesitas personas que se bajen una caja de pintas contigo cuando quieres hablar aunque sepan que el día siguiente sera un asco, necesitas gente que te diga que estas siendo un ahuevao y que puedes mas que eso, gente que te ame y aprecie por lo que eres.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Se como el bambú y no como el roble&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;El roble, fuerte e inflexible es el primer árbol que se rompe o se cae cuando hay huracanes o tornados, el bambú flexible al viento, se mantiene en pie para ver un dia mas.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Desarrolla la aceptación&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Amor Fati - ama el destino, ama la mano que te toco y ve que puedes hacer con ella.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Practica la gratitud&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;No te concentres en lo que falta, concéntrate en lo que hay.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mata el comfort&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Entrena duro, se austero, practica estar sin las cosas que tienes, no te dejes llevar por el crédito y la cultura del ya, trabaja duro, ahorra y prioriza a largo plazo.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;nota-final&quot;&gt;Nota Final&lt;/h2&gt;
+&lt;p&gt;Una de las mejores cosas que puedes por ti y por los tuyos es desarrollar la fortaleza mental (y física) para poder afrontar cualquier situación, esto lo logras o deteniéndote un segundo para analizar donde estas y hacia donde vas - o justo al momento de que la situación ocurre.&lt;/p&gt;
+
+&lt;p&gt;Los buenos tiempos nunca duran para siempre y los malos tiempos tienen que ser igual de bien recibidos ya que son maestros, ya es cuestión de nosotros si queremos usar sus enseñanzas o no.&lt;/p&gt;
+
+&lt;h4 id=&quot;mas-informacion&quot;&gt;Mas informacion&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://markmanson.net/how-to-grow-from-your-pain&quot;&gt;How to grow from your pain&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://ourworldindata.org/grapher/total-population-living-in-extreme-poverty-by-world-region&quot;&gt;World in data - Population living in extreme poverty&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://markmanson.net/resilience&quot;&gt;5 ways to build resilience and conquer adversity&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://nypost.com/2014/02/15/tortured-in-vietnams-worst-prison-11-us-soldiers-were-unbreakable/&quot;&gt;Adm. James Stockdale Tortured in notorious ‘Hanoi Hilton’&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Amor_fati&quot;&gt;Amor Fati&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.ted.com/talks/viktor_frankl_why_believe_in_others&quot;&gt;Why I Believe in others - Viktor Frankl&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=mcu7oX4ygV4&quot;&gt;Madball - Adapt And Overcome&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://zenstudiespodcast.com/zenacceptance/&quot;&gt;What Zen Acceptance and Non Attachment Really are&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name>Pedro</name></author><category term="life" /><summary type="html">No es un secreto para nadie que hay una crisis de salud mental alrededor del mundo occidental (y también en el este), aunque el mundo es mas seguro, la gente vive mas tiempo y tecnicamente el mundo es mas “rico”, los niveles de depresión y stress están por las nubes.</summary></entry><entry><title type="html">Liderazgo</title><link href="http://localhost:4000/liderazgo/2020/05/29/liderazgo.html" rel="alternate" type="text/html" title="Liderazgo" /><published>2020-05-29T07:30:00-05:00</published><updated>2020-05-29T07:30:00-05:00</updated><id>http://localhost:4000/liderazgo/2020/05/29/liderazgo</id><content type="html" xml:base="http://localhost:4000/liderazgo/2020/05/29/liderazgo.html">&lt;p&gt;Es una palabra que a traves de los siglos ha tenido diferentes connotaciones, desde mi punto de vista un lider es una persona que influencia, la influencia es liderazgo pero no necesariamente te hace un lider - un lider tiene el deseo y la habilidad de usar su influencia con los demas.&lt;/p&gt;
+
+&lt;p&gt;Eso quiere decir, que el liderazgo no te lo da la posicion, como muchas personas en el mundo moderno piensan - cualquiera puede ser lider dentro de un equipo, siempre y cuando tenga poder de influencia ya lo coloca en una posicion de liderazgo.&lt;/p&gt;
+
+&lt;h2 id=&quot;equipo&quot;&gt;Equipo&lt;/h2&gt;
+
+&lt;p&gt;Defino equipo aqui no solo en el ambiente laboral, sino tambien familiar y de relaciones interpersonales, los seres humanos somos creaturas sociales por definicion y hemos llegado al tope de la cadena alimenticia(para bien o para mal) por nuestra capacidad de trabajar en equipo para lograr cosas que una sola persona jamas podria hacer.&lt;/p&gt;
+
+&lt;h2 id=&quot;malos-lideres&quot;&gt;Malos Lideres&lt;/h2&gt;
+&lt;p&gt;Cuando hablo de malos lideres voy a dejar por fuera el cliche del jefe que piensa que el liderazgo se lo da un titlo, hablo de personas capaces de influenciar grupos de personas, familias, equipos, paises hacia causas que por definicion son malas.&lt;/p&gt;
+
+&lt;p&gt;Caligula, Jim Jones, Adolf Hitler, Joseph Stalin, Marshall Applewhite - por nombrar algunos, comparten las mismas caracteristicas que cualquiera de los grandes lideres del siglo XX y hacia atraas - Gandhi, Mandela, Churchill, Alexandros Magno, Marcus Aurelius.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.history.com/.image/t_share/MTU5OTEyNDY3MDIyMDMwMTk5/jim-jones-radio-getty-948040342.jpg&quot; alt=&quot;Jim Jones&quot; title=&quot;Foto: History.com&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aqui una lista de cosas que los dos lados poseen:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Influencia&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Es la raiz de todo y tambien es donde todos somos lideres de una manera u otra, porque todos tenemos un circulo de influencia.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Seguidores Voluntarios
+    &lt;ul&gt;
+      &lt;li&gt;Ganan confianza y respeto antes de buscar beneficios en su posicion.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pasion&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Perseguir una causa, practicamente obsesionarte con ella y usar tu influencia para que los demas compren tu idea.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Coraje&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Similar a la anterior - los lideres tanto buenos como malos tienen las agallas de seguir adelante independientemente de cualquier situacion u obstaculo que se ponga en su camino.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Aqui, ya se bifurca el camino y comienzan las trampas del ego en los malos lideres y la distorsion de su mision.&lt;/p&gt;
+
+&lt;h2 id=&quot;caracteristicas-de-un-buen-lider&quot;&gt;Caracteristicas de un buen lider&lt;/h2&gt;
+
+&lt;p&gt;El resto de este articulo me voy a concentrar en las caracteristicas de un buen lider desde mi punto de vista las mas importantes para mi.
+&lt;img src=&quot;http://wp.production.patheos.com/blogs/monkeymind/files/2015/04/marcus-aurelius1.jpg&quot; alt=&quot;Marcus Aurelius&quot; title=&quot;Foto: rationalwalk.com&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Mente Abierta y vision a largo plazo&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;No ser la persona con todas las respuestas, ser capaz de escuchar a tu equipo y actuar en sus sugerencias.&lt;/li&gt;
+      &lt;li&gt;Aqui entra la trampa del ego y la falta de humildad, no estas en esta posicion para “call all the shots” - pide apoyo al equipo para desarrollar el plan.&lt;/li&gt;
+      &lt;li&gt;La capacidad de un lider esta en ser capaz de ver el arbol - pero tambien detenerse a mirar el bosque para buscar mejores caminos.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Compostura&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Un buen lider es el ultimo que tiene que perder la calma ante una situacion de estres.&lt;/li&gt;
+      &lt;li&gt;Si eres el primero en buscar culpables, tu eres el culpable.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Es bondadoso en vez de ser bueno&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Desde que somos chicos nos inculcan a ser “bueno”, ser “bueno” es no decir la verdad para mantener el status quo.&lt;/li&gt;
+      &lt;li&gt;Eso no es lo que tu familia, amigos, equipo necesita, hay que decir la verdad con la mayor cantidad de tacto posible, buscando la mejora continua, tambien significa escoger tus peleas, no puedes cambiarlo todo porque no lo controlas todo.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Extreme Ownership&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Esta la pongo en ingles porque es un libro y un concepto que trato de aplicar, eres el culpable de absolutamente todo lo que pasa y deja de pasar en tu equipo si quieres ser considerado el lider.&lt;/li&gt;
+      &lt;li&gt;Esto elimina las excusas, hace que todos y cada uno de los miembros del equipo entiendan la mision&lt;/li&gt;
+      &lt;li&gt;Los equipos(e individuos) mas exitosos se concentran en lo que puedan controlar.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Constante Aprendizaje y autoconocimiento&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;El liderazgo es un arte, cuando eres un lider, las palabras que dices tienen un impacto profundo en tu equipo, mantente aprendiendo, piensa antes de hablar.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;liderazgo-tecnico&quot;&gt;Liderazgo Tecnico&lt;/h2&gt;
+
+&lt;p&gt;Ser lider de un equipo tecnico involucra no solo tener la capacidad de comunicarte con personas mucho mas inteligentes que tu en todos los niveles, sino tambien ser capaz de entender a muy alto nivel como funcionan los diferentes productos (hardware, software, maquinaria) al cual tu equipo le presta soluciones.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.weetechsolution.com/upload/Technical-leader-Roles-and-responsibilities.png&quot; alt=&quot;Technical Leader&quot; title=&quot;Foto: Weetechsolution.com&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;De esta manera seras capaz de poder reconocer talento cuando lo ves, lo cual es otra gran caracteristica de un buen lider, ya que el 90% del tiempo estan haciendo que las cosas pasen a traves de otros, adicional no hay mejor equipo en donde el equipo compensa las deficiencias del lider.&lt;/p&gt;
+
+&lt;p&gt;Otra de las cosas que un lider tecnico hace, ese otro 10% del tiempo, es priorizar - si el equipo trata de hacer todo, no lograra nada, en el mundo tecnico se necesita arreglar primero un problema para pasar a otro y hay que utilizar los recursos finitos (tiempo, creatividad del equipo) para resolver los problemas que mas impacten la mision.&lt;/p&gt;
+
+&lt;p&gt;Dar la cara para proteger a tu equipo es otra de las grandes maximas - Extreme Ownership nuevamente, asumir toda responsabilidad cuando las cosas salen mal y compartir el credito cuando salen bien ya que lo mas importante en el equipo es el equipo, recibe los golpes, pide disculpas, asume los errores y sigue adelante.&lt;/p&gt;
+
+&lt;h2 id=&quot;desarrollando-lideres&quot;&gt;Desarrollando Lideres&lt;/h2&gt;
+
+&lt;p&gt;Nuestro trabajo como lideres tiene dos aristas - desarrollar el equipo y cumplir la mision, si fallamos en una de las dos no estamos haciendo bien nuestro trabajo, muchas veces una de las que queda rezagada debido al hecho que muchas veces vivimos apagando fuegos o en las tareas tacticas es el hecho de hacer crecer al equipo profesionalmente.&lt;/p&gt;
+
+&lt;p&gt;Todos los seres humanos tenemos aspiraciones y los miembros de nuestro equipo necesitan a alguien que los pueda guiar y les pueda dar el tiempo necesario para poder superarse, no solo con entrenamientos (esto aplica para todas las areas: Ventas, Mercadeo, tecnicas(IT, Industrial, Mecanica)) sino tambien dandoles responsabilidades adicionales, si queremos desarrollar lideres dentro de nuestros equipos tenemos que darles:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Un Objetivo&lt;/li&gt;
+  &lt;li&gt;Condiciones de trabajo&lt;/li&gt;
+  &lt;li&gt;Standard para cumplir&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Al dar instrucciones claras no solo diciendoles lo que tienen que cumpir sino tambien como y que significa “el cumplimiento” falta un paso adicional que es hacerlos personalmente responsables del resultado, ejercitan el musculo del liderazgo al trabajar con otras personas y tratar de que las cosas ocurran a traves de ellas (Influencia)&lt;/p&gt;
+
+&lt;p&gt;Si convertimo esto en un proceso, tendremos un equipo, familia, organizacion  de lideres en donde cada persona es responsable y hace responsable de los resultados a los demas, creando un ciclo de retroalimentacion positivo.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://s-media-cache-ak0.pinimg.com/564x/85/4b/85/854b85abab945042e3736bd01b637ec2.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&quot;nota-final&quot;&gt;Nota Final&lt;/h2&gt;
+
+&lt;p&gt;Las posiciones de liderazgo principalmente en politica y en el mundo corporativo, no deben tomarse por dinero o reconocimiento - la idea debe ser siempre mejorar la vida de las personas a tu alreadedor.&lt;/p&gt;
+
+&lt;p&gt;Lo que diferencia un lider bueno de uno malo, es la mision, un lider siempre va a tener poder de influencia, si no lo tienes, no debe ser catalogado como lider (administrador, gerente, supervisor, etc…) titulos que no dan el liderazgo, pero en donde se puede desarrollar sin ningun problema.&lt;/p&gt;
+
+&lt;p&gt;El liderazgo es un deporte de contacto, habla con tu equipo( o familia), entiende lo qu eestan haciendo, ten visibilidad, hablen de otra cosa que no sea de trabajo o escuela y mira hacia el futuro no solo a nivel del equipo sino a nivel general.&lt;/p&gt;
+
+&lt;p&gt;Las notas escritas aqui aplican para todos los ambientes, ya que todos somos lideres en uno u otro momento ya que somos capaces de ejercer nuestra influencia (de manera positiva, o negativa) en una o varias personas.&lt;/p&gt;
+
+&lt;h4 id=&quot;mas-informacionlibros&quot;&gt;Mas informacion/Libros&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://echelonfront.com/extreme-ownership/&quot;&gt;Extreme Ownership&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://press.princeton.edu/books/hardcover/9780691193991/how-to-be-a-bad-emperor&quot;&gt;How to be a Bad Emperor&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://press.princeton.edu/books/hardcover/9780691192116/how-to-be-a-leader&quot;&gt;How to be a Leader&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/library/view/the-managers-path/9781491973882/&quot;&gt;The Manager’s Path&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.theprogram.org/&quot;&gt;The Program&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name>Pedro</name></author><category term="liderazgo" /><summary type="html">Es una palabra que a traves de los siglos ha tenido diferentes connotaciones, desde mi punto de vista un lider es una persona que influencia, la influencia es liderazgo pero no necesariamente te hace un lider - un lider tiene el deseo y la habilidad de usar su influencia con los demas.</summary></entry><entry><title type="html">Punk Rock</title><link href="http://localhost:4000/punkrock/2020/05/27/punk.html" rel="alternate" type="text/html" title="Punk Rock" /><published>2020-05-27T19:02:02-05:00</published><updated>2020-05-27T19:02:02-05:00</updated><id>http://localhost:4000/punkrock/2020/05/27/punk</id><content type="html" xml:base="http://localhost:4000/punkrock/2020/05/27/punk.html">&lt;p&gt;Conforme he ido creciendo, personal, emocional y profesionalmente - el punk ha significado muchas cosas para mi: rebeldía,  creatividad, busqueda de paz mental - pero creo que todo se resume a un gran punto: Preguntar el por qué de las cosas - ese cuestionamiento constante del status quo en donde no existen respuestas correctas y gana el que se hace la mejor pregunta.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.ytimg.com/vi/lK_1C_KGGFQ/maxresdefault.jpg&quot; alt=&quot;Credits: ResurrectionFest!&quot; title=&quot;Foto: Youtube - User: ResurrectionFest&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Porque para mí, más alla de un tipo de musica que nació y murio antes que yo tomara mi primera bocanada de aire por ahí en el 85 - y vuelve a tomar relevancia 9-10 años despues en otro contexto muy diferente, es un llamado a la expresión unica de tu personalidad, una forma de vida que más allá de la cerveza, el moshpit, la ropa negra y cualquier tipo de “fashion statement” del cual se alimente el nuevo genero de moda “XXXXXX Punk” en donde es sencillo para las disqueras vender imagenes de sexo, violencia y nihilismo, nos invita a cuestionar la razón no solo de nuestra existencia sino tambien buscar el proposito por el cual estamos aquí y no aceptar actitudes sociales que van en contra de nuestra naturaleza humana.&lt;/p&gt;
+
+&lt;p&gt;Y es que los seres humanos, desde muy pequeños desafortunadamente nos van amoldando a no hacer las preguntas dificiles - simplemente acatar lo que se te pide y se te dice sin poder expresar tus propias opiniones lo cual, equivale desde mi punto de vista a una muerte prematura, tomando en cuenta que somos una de los pocos animales en este planeta que podemos expresar nuestra individualidad, no hacerlo es ir en contra de esa naturaleza - por otro lado, ser capaces de reconocer la trampa de la individualidad en un mundo que se alimenta de los estereotipos en donde es mas sencillo empaquetar una imagen y amoldarte a ella que encontrar tu propia voz.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i0.wp.com/vashivisuals.com/wp-content/uploads/2013/06/ImprovTempe-4.jpg&quot; alt=&quot;YourVoice&quot; title=&quot;Foto: vashivisuals.com/home/&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Al final eso es lo que me ha dado el punk rock a mi, una oportunidad de encontrar mi voz, una oportunidad de compartir esa individualidad con otras personas que se convirtieron en mis mejores amigos y parte de mi familia - crecer, conocer cosas juntos, experiencias nuevas, amores, discusiones, y ese crecimiento personal que solo ganas compartiendo cosas con personas diferentes a ti que muchas veces no buscan el mismo objetivo.&lt;/p&gt;
+
+&lt;h3 id=&quot;un-mundo-cambiante&quot;&gt;Un Mundo Cambiante&lt;/h3&gt;
+&lt;p&gt;Adaptarte, resolver, negociar, buscar opciones, hacer las cosas tu mismo - habilidades que no se enseñan en la escuela y que encuentras cada vez que tienes que armar un show, hacer una cancion, vender una idea o inclusive llevar la idea adelante aunque no todos estén de acuerdo, son enseñanzas que se generan en un ambiente en donde está bien equivocarse, está bien aprender y nadie es más que nadie - no es un ambiente libre de ego (de hecho creo que los punks muchas veces pecamos de soberbios al creernos dueños de la verdad) y fallamos en adherirnos al punto de vista de ver “la verdad” a como las cosas son - no a “la verdad” como queremos que las cosas sean, o como creemos que las cosas son.&lt;/p&gt;
+
+&lt;p&gt;Punk, para mí, es caminar esa delgada linea entre la expresión de tu individualidad personal y ser parte de esos valores culturales que como comunidad en general (panameños en mi caso) y de crianza (familiares) compartimos - esa amalgama de caracteristicas es lo que nos hacen unicos, expresar esa individualidad tomando las desiciones correctas para tí y no a lo que tu familia o comunidad le parece “normal”.&lt;/p&gt;
+
+&lt;p&gt;Si aprendemos a valorar la grandeza de la mente y el espiritu humanos - ajustando nuestras realidades (empresarios, trabajadores en grandes, pequeñas o medianas empresas, am@s de casa, artistas) y nos damos cuenta que lo unico que nos permite librarnos de las ataduras de la conformidad es nuestra capacidad de no solo hacernos las preguntas dificiles, sino actuar en ellas - preguntas como:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;¿Lo estoy haciendo por mí y los mios o para “impresionar” a los demás?&lt;/li&gt;
+  &lt;li&gt;¿Es esto ganas de reconocimiento?&lt;/li&gt;
+  &lt;li&gt;¿Estoy actuando de forma egoista?&lt;/li&gt;
+  &lt;li&gt;¿Es esto una trampa?&lt;/li&gt;
+  &lt;li&gt;¿Realmente lo necesito?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Inclusive irme una capa mas a fondo&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Estoy estudiando por un diploma o por el placer de aprender?&lt;/li&gt;
+  &lt;li&gt;Tengo este trabajo por status, riqueza, “seguridad laboral” en vez de por satisfaccion?&lt;/li&gt;
+  &lt;li&gt;Tengo mis prioridades claras o pierdo el tiempo y mi esfuerzo en consumo en vez de invertir en crear opciones para mi y los mios?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Y una de las mas importantes, una pregunta que una banda nacional de punk que admiro mucho lo expone claro en una de sus canciones - “Si no soy las cosas que tengo o he logrado, &lt;strong&gt;quien/o que soy?&lt;/strong&gt;”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cloudfront.crimethinc.com/assets/articles/2020/05/07/1.jpg&quot; alt=&quot;Needs&quot; title=&quot;Foto: Crimethic.com/&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Gran parte de todo lo que he escrito aqui se resume en aprender a vivir en comnunidad sin olvidar nuestra capacidad de hacer preguntas, conforme voy creciendo y forjando mi paso por la vida las lecciones del punk, y no hablo del punk violento y borracho que venden las disqueras, hablo del Doctor que atiende a un paciente urgente aunque no tenga seguro, hablo del empleado corporativo que se atreve a decir las cosas que están mal porque no se alinea con sus valores, hablo del abogado que le dice que no a un narcotraficante, etc…&lt;/p&gt;
+
+&lt;p&gt;Hay mucho mas Punk en estos comportamientos que en un enbotado que está “en contra del sistema” mientras su madre se rompe la espalda trabajando doble turno.&lt;/p&gt;
+
+&lt;h3 id=&quot;opciones&quot;&gt;Opciones&lt;/h3&gt;
+&lt;p&gt;Las opciones las generas tú (DIY), entender que el sistema busca mantenerte sumiso, sin opciones… ser punker es cuestionar un sistema lleno de mentiras y hacer algo para cambiarlo, primero dentro de ti y luego a tu alrededor creando opciones con educación y accion directa.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No vas a tener opciones si tienes deudas de consumo&lt;/li&gt;
+  &lt;li&gt;No vas a tener opciones si no encuentras un arte que conozcas de principio a fin&lt;/li&gt;
+  &lt;li&gt;No vas a tener opciones si no tienes efectivo o si lo rechazas completamente (Al vivir en una sociedad de intercambio de bienes y servicios limitas tus opciones al solo intercambiar tu arte)&lt;/li&gt;
+  &lt;li&gt;No vas a tener opciones si eres adicto a una sustancia, al sexo o al reconocimiento&lt;/li&gt;
+  &lt;li&gt;No vas a tener opciones si con lo unico que te identificas es con tu realidad actual, que puede cambiar de un momento a otro.&lt;/li&gt;
+  &lt;li&gt;Hacer las pregunta dificiles:
+    &lt;ul&gt;
+      &lt;li&gt;A que dios estoy adorando?(dinero,moda,ego)&lt;/li&gt;
+      &lt;li&gt;Que estoy haciendo para crecer?&lt;/li&gt;
+      &lt;li&gt;Se alinea mi rutina con mis valores?&lt;/li&gt;
+      &lt;li&gt;Cuales son mis valores? (Ya decian los Street Dogs &lt;em&gt;“Stand up for something or die for nothing”&lt;/em&gt; )&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;nota-final&quot;&gt;Nota Final&lt;/h3&gt;
+&lt;p&gt;Filosofia con acordes, no solo es una manera de expresion que fue absorbida por el status quo que tanto critico en sus inicios - si miras a fondo, es Buddha, es Marco Aurelio, Chomsky, Kropotkin y Emma Goldman - Eres tu, sentado contigo mismo tratando de descifrar la mejor manera de disfrutar este viaje.&lt;/p&gt;
+
+&lt;h4 id=&quot;mas-informacion&quot;&gt;Mas informacion&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://punxinsolidarity.com/2013/10/22/punk-manifesto-by-greg-graffin/&quot;&gt;Punk Manifesto&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://crimethinc.com/2000/09/11/product-is-the-excrement-of-action&quot;&gt;Product is the excrement of action&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/track/2C8l0vFdgVZkzs2UDoleFc?si=9X2BlYQYQDiFmKKUtVvVLA&quot;&gt;Radicales Libres - Perdido en la tonteria&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://andypeytonlearninglog.myblog.arts.ac.uk/2018/10/30/optionality-antifragility/&quot;&gt;Optionality and Anti-Fragility&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/track/3ZzUwe88vb0XKSFTY3Zb1g?si=qSbZSXRwRXW2auZ9KreLDA&quot;&gt;Street Dogs - Stand up for something or die for nothing&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.alternet.org/2013/05/noam-chomsky-kind-anarchism-i-believe-and-whats-wrong-libertarians/&quot;&gt;Chomsky on Anarchism&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name>Pedro</name></author><category term="punkrock" /><summary type="html">Conforme he ido creciendo, personal, emocional y profesionalmente - el punk ha significado muchas cosas para mi: rebeldía, creatividad, busqueda de paz mental - pero creo que todo se resume a un gran punto: Preguntar el por qué de las cosas - ese cuestionamiento constante del status quo en donde no existen respuestas correctas y gana el que se hace la mejor pregunta.</summary></entry></feed>
