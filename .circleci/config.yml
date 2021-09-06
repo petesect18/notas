@@ -111,3 +111,4 @@ workflows:
       - deploy_production:
           requires:
             - confirm_deploy
+github: [metadata]
