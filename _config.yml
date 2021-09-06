@@ -1,7 +1,7 @@
 title: Notas
 author:
   name: Pedro
-  email: 
+  email:
 description: > # this means to ignore newlines until "show_excerpts:"
   Proyectos y Escritos
 
@@ -56,3 +56,4 @@ theme: jekyll-theme-hacker
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+staticman_url = https://api.staticman.net/v3/entry/github/petesect18/notas/notes/comments
