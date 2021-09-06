@@ -56,4 +56,5 @@ theme: jekyll-theme-hacker
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
-staticman_url = https://api.staticman.net/v3/entry/github/petesect18/notas/notes/comments
+ 
+ staticman_url = https://api.staticman.net/v3/entry/github/petesect18/notas/comments
