@@ -16,18 +16,19 @@ Si bien es cierto que gran porcentaje de las cosas que nos ocurren no las podemo
 - Dejamos de crear y de crecer porque otras cosas "mas importantes" se ponen en nuestro camino
 - Nos dejamos arrastrar por la corriente del status quo sin darnos cuenta que podemos ser los arquitectos de nuestro propio destino.
 
-Podemos tomar la decision de hacer mas, se SER mas... decidir dejar una marca en este mundo a traves de las cosas que hacemos, inspirar a otros, pero asi mismo inspirarnos a nosotros mismos.
+Podemos tomar la decision de hacer mas, de SER mas... decidir dejar una marca en este mundo a traves de las cosas que hacemos, inspirar a otros, pero asi mismo inspirarnos a nosotros mismos.
 
-Y si van a haber dias que no vamos a querer escribir, van a haber dias que no vamos a querer entrenar, y HELL - habran dias que no te diste cuenta y comiste McDonalds, te tomaste la caja entera de cervezas o te dejaste llevar por tu impulsividad y heriste los sentimientos de alguien amado.
+Y habran dias que no vamos a querer escribir,  que no vamos a querer entrenar, y HELL - habran dias que no te diste cuenta y comiste McDonalds, te tomaste la caja entera de cervezas o te dejaste llevar por tu impulsividad y heriste los sentimientos de alguien amado.
 
 **Disciplina** no es un atajo, ni un hack - los atajos son mentiras que la industria te bombardea todos los dias con historias de exito de un dia para otro ("ten libertad financiera sin hacer nada!", "baja 50lbs en 2 semanas!"), el camino facil no te va a llevar donde quieres estar.
 
-El camino facil te lleva donde otros quieren que estes (endeudado, enfermo, ansioso, motivado por las 3 horas despues que compraste "el producto que te resolveria la vida") para luego caer en el mismo ciclo, una y otra vez, como Sysyphus que fue condenado a llevar una piedra pesada hacia la cima de una montaña para luego regresar al punto cero, cansado, frustrado y desesperado.
+El camino facil te lleva donde otros quieren que estes (endeudado, enfermo, ansioso, motivado solo durante las 3 horas despues que compraste "el producto que te resolveria la vida") para luego caer en el mismo ciclo, una y otra vez, como Sysyphus que fue condenado a llevar una piedra pesada hacia la cima de una montaña para luego regresar al punto cero, cansado, frustrado y desesperado.
 
-Como rompemos ese ciclo? La realidad no se ejecuta sola, tienes que levantarte en la mañana con un objetivo en mente - si no tienes uno CREALO, mira hacia adentro y ve que cosas de tu vida puedes mejorar, que cosas no te gustan, de que cosas te quieres alejar.
+Como rompemos ese ciclo? La realidad no se ejecuta sola, tienes que levantarte en la mañana con un objetivo en mente - si no tienes uno **CREALO**, mira hacia adentro y ve que cosas de tu vida puedes mejorar, que cosas no te gustan, de que cosas te quieres alejar.
 
 Cuando empiezas? - **Hoy**
 Donde empiezas? - **Aqui**
+Quien quiero ser? - **Mejor que ayer**
 
 Las pesas no se alzan solas, la musica no se escribe ni se toca sola, ese poema, libro, planta, pintura, projecto ... **NADA SE HACE SOLO** y tenemos que tener la disciplina para lograr lo que queremos, enfocate en ti mismo y crecer hacia la persona que quieres ser - mas fuerte, inteligente, mas humilde, con menos ego.
 
