@@ -24,6 +24,6 @@ Cuando la prioridad es consumir, tienes mucho menos espacio para poder crear, cu
 
 Estamos en constante proceso de cambio, nada es permanente, como decia Heraclito "Ningun hombre se mete en el mismo rio dos veces, porque el rio cambia y el hombre tambien" pero si vamos en automatico, cumpliendo prioridades puestas por otros, racionalizando que no tenemos tiempo para escribir, componer, dibujar, pintar, practicar un arte marcial, estamos en ruta hacia la trampa de la racionalizacion.
 
-La trampa del "no hacer" que se esconde detras de las excusas, esperar el momento perfecto para poner tu lista de cosas importantes en orden, esperar que el progreso sea lineal (o que llegue rapido) cuando en realidad los resultados del esfuerzo se ven meses o inclusive años y es donde vemos el verdadero valor del esfuerzo que le hemos metido a algo.
+La trampa del "no hacer" que se esconde detras de las excusas, esperar el momento perfecto para poner tu lista de cosas importantes en orden, esperar que el progreso sea lineal (o que llegue rapido) cuando en realidad el verdadero valor del esfuerzo se ven meses o inclusive años despues.
 
 Sientate a pensar en que es lo mas importante para ti, en que te quieres convertir, practica y mete tus horas, no importa si sale bien, no importa si sale mal, lo unico que importa es que metiste el tiempo, el destino te toca el hombro algunas veces en tu vida, depende de ti responder el llamado, estar preparado y tener los huevos de ir por ello.
