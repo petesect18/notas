@@ -12,7 +12,7 @@ En un mundo donde la distraccion es lo que domina y la atencion trata de ser mon
 
 Levantarte, ver el telefono, redes sociales, whatsapp, correos, web surfing los primeros 20 minutos del dia, luego de eso ir a la oficina a responder mas correos, pedidos "urgentes" de otros, reuniones en las que no tienes nada que ver o ningun input que agregar, terminas el dia sintiendote que no hiciste nada realmente, siendo reactivo respondiendo a pedidos externos a ti.
 
-Regresar a casa para sentarte a ver cual es la proxima recomendacion de netflix o de las innumerables plataformas digitales o de consumo a las que estamos expuestos, para luego empezar todo otra vez mas al dia siguiente en una especie de "Dia de la marmota" hasta el dia que des tu ultimo respiro en esta tierra.
+Regresar a casa para sentarte a ver cual es la proxima recomendacion de netflix junto a las innumerables plataformas digitales o de consumo a las que estamos expuestos, para luego empezar todo otra vez mas al dia siguiente en una especie de "Dia de la marmota" hasta el dia que des tu ultimo respiro en esta tierra.
 
 Si no pones prioridades en tu vida, alguien mas lo hara por ti - ya sea tu jefe, tu organizacion o un algoritmo.
 
