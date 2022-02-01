@@ -6,11 +6,14 @@ categories: thoughts
 comments: true
 ---
 
-En un mundo donde tenemos todo al alcance de nuestros dedos (delivery al mismo dia, ventanas digitales para interaccion social, pornografia, comida rapida, nos condicionamos a una conveniencia dañina.
+En un mundo donde tenemos todo al alcance de nuestros dedos (delivery al mismo dia, ventanas digitales para interaccion social, pornografia, comida rapida) somos victimas de una conveniencia dañina que crea consecuencias inesperadas.
 
-- El website demoro mas de 3 segundos en cargar?
-- El conductor de uber se demoro 2 minutos mas de lo previsto?
-- El paquete no llego de Miami a Panama en 1 dia como siempre porque hubo demoras?
+- El website demoro mas de 3 segundos en cargar? CARAJO!
+- El conductor de uber se demoro 2 minutos mas de lo previsto? INCOMPETENTE
+- No me gusto la persona que vi o lei? SWIPE!
+- No soy un musico virtuoso en 3 meses? - NUNCA ME GUSTO 
+- El paquete no llego de Miami a Panama en 1 dia como siempre porque hubo demoras? ASCO DE EMPRESA
+
 
 **STRESS E IMPACIENCIA**
 
