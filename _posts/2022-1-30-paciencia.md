@@ -6,16 +6,23 @@ categories: thoughts
 comments: true
 ---
 
-Decian los abuelos que la paciencia es una virtud y en un mundo donde tenemos todo al alcance de nuestros dedos (delivery al mismo dia, ventanas digitales para interaccion social, pornografia, comida rapida(hasta su nombre lo dice)), nos condiciona a un mundo de comodidad que en si no es que sea mala, pero mientras mas optimizamos nuestras vidas para la conveniencia, esa misma conveniencia nos convierte en personas irritables e impacientes.
+En un mundo donde tenemos todo al alcance de nuestros dedos (delivery al mismo dia, ventanas digitales para interaccion social, pornografia, comida rapida) somos victimas de una conveniencia dañina.
 
-- El website demoro mas de 3 segundos en cargar?
-- El conductor de uber se demoro 2 minutos mas de lo previsto?
-- El paquete no llego de Miami a Panama en 1 dia como siempre porque hubo demoras.
+- El website demoro mas de 3 segundos en cargar? CARAJO!
+- El conductor de uber se demoro 2 minutos mas de lo previsto? INCOMPETENTE
+- No me gusto la persona que vi o lei? SWIPE. 
+- El paquete no llego de Miami a Panama en 1 dia como siempre porque hubo demoras? ASCO DE EMPRESA
 
-Todo este tipo de cosas generan algun tipo de angustia e impaciencia en nosotros, cuando hace apenas 10 años nisiquiera hubieramos podido tener acceso a tecnologia de este tipo (los que tienen edad suficiente recuerdan las conexiones a 56Kbps), sin embargo ya que tenemos acceso a esa conveniencia nos hemos acostumbrado a que tenemos todo que ganar y nada que perder, tambien por el acceso global de las redes sociales e internet en general somos expuestos mas que nunca a esos prodigios que alcanzaron su black belt en jiu jitsu en 7 años, adolescentes virtuosos de la guitarra, crypto/wall street investors que pareciera tuvieran una bola de cristal, etc... haciendo ver nuestros esfuerzos como vanos.
+**STRESS E IMPACIENCIA**
 
-Cada minuto de nuestra vida importa, porque perderlos sintiendonos impacientes? Porque no confiar en el proceso? Todos estamos familiarizados ya con el experimento del malvavisco en donde se le dice a unos niños de 4 a 6 años que se les dara un malvavisco adicional si logran esperar 15 minutos sin comerlo, el estudio es clasico en comportamiento humano, al igual que la caja de Skinner en donde primero una rata descubre que jalando una palanca se le da un premio y luego cuando ese premio se le quita la rata igual sigue jalando la palanca hasta que queda exhausta.
+Hace apenas 10 años nisiquiera hubieramos podido tener acceso a tecnologia y comodidades de este tipo (los que tienen edad suficiente recuerdan las conexiones a 56Kbps), sin embargo ya que tenemos acceso a ellas nos hemos acostumbrado a que nos la merecemos y no aceptamos menos, tambien por el acceso global de las redes sociales e internet en general somos expuestos mas que nunca a esos prodigios que alcanzaron su black belt en jiu jitsu en 7 años, adolescentes virtuosos de la guitarra, crypto/wall street investors que pareciera tuvieran una bola de cristal, etc... haciendo ver nuestros esfuerzos como vanos.
 
+Cada minuto de nuestra vida importa, porque perderlos sintiendonos impacientes?
+Porque no confiar en el proceso?
+
+Todos estamos familiarizados ya con el experimento del malvavisco en donde se le dice a unos niños de 4 a 6 años que se les dara un malvavisco adicional si logran esperar 15 minutos sin comerlo, el estudio es clasico en comportamiento humano, al igual que la caja de Skinner en donde primero una rata descubre que jalando una palanca se le da un premio y luego cuando ese premio se le quita la rata igual sigue jalando la palanca hasta que queda exhausta - somos los niños que se comen el malvavisco educados en una cultura que te vende resultados en un paquete.
+
+**Tipos de paciencia**
 Existe la paciencia hacia otros, la paciencia en la espera y la paciencia para contigo mismo - las tres son importantes y las tres nos ayudan a navegar esta vida de gratificacion instantanea - ser conscientes de esto nos permitira sacarle mas provecho a nuestros dias, practicarlo y poder centrar nuestra atencion lejos de los ultimos fads que te prometen perder peso YA, darte resultados YA, hacerte rico de la noche a la mañana YA! y no son nada mas que parte de una falacia cognitiva que los expertos en marketing saben explotar muy bien.
 
 Sabemos que una dieta sana y ejercicio diario con el tiempo es lo unico que lleva a un peso saludable, sabemos que el interes compuesto a traves de los años (fondos de inversion, plazos fijos, etc.) es una de las vias mas seguras hacia el crecimiento financiero, sabemos que una relacion de amistad o de pareja toma años y trabajo en alcanzar su maximo potencial, lo mismo con un negocio o proyecto.
