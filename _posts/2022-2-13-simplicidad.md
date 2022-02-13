@@ -32,6 +32,10 @@ Partir de esa maxima que dice que si queremos avanzar tenemos que ser capaces de
 
 ### Mas info.
 [Look and Live](https://www.artofmanliness.com/character/behavior/sunday-firesides-look-and-live/?mc_cid=414015c007&mc_eid=d395f122cf) 
+
 [Better than average effect](https://pubmed.ncbi.nlm.nih.gov/31789535/) 
+
 [Occam Razor](https://en.wikipedia.org/wiki/Occam%27s_razor) 
+
 [Break the complex into simple](https://www.modernanalyst.com/Resources/Articles/tabid/115/ID/5343/Breaking-the-Complex-Down-to-Simple.aspx) 
+
