@@ -29,10 +29,7 @@ Tenemos que entender que por mas compleja que parezca nuestra situacion, alreded
 
 **Tomar accion, dejar la mentalidad de victima que nos hace racionalizar que no podemos hacer nada por nuestra situacion actual** (trabajo, pareja, familia) y nos impide movernos en una direccion positiva - cuesta trabajo, juega en contra de la inercia ya que lo mas facil es sentarse a esperar.
 
-Si esperamos que las cosas caigan mientras nos lamentamos la suerte vamos a entrar en un ciclo negativo de pensamiento que no nos ayudara a avanzar, el paso uno es entender desde que perspectiva estamos mirando las cosas.
-
-Desde una que nos hara crecer?
-O desde una que nos mantendra atados a viejas costumbres?.
+Si esperamos que las cosas caigan mientras lamentamos nuestra suerte vamos a entrar en un ciclo negativo de pensamiento que no nos ayudara a avanzar, el paso uno es entender desde que perspectiva estamos mirando las cosas, desde una que nos hara crecer o desde una que nos mantendra atados a viejas costumbres?
 
 ### Mas info.
 [The View From Above](https://tricycle.org/magazine/view-above/)
