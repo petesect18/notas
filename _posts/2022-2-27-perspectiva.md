@@ -10,31 +10,33 @@ Todos experimentamos en algun momento de nuestras vidas un giro del destino que 
 
 Por lo general, maldecimos nuestra suerte y pensamos que de una tribulacion no pueden salir grandes cosas, sin embargo es ahi donde esta el crecimiento, en nuestra perspectiva de como podemos convertir todo lo que nos pasa en gasolina para continuar.
 
-Cambiar la mentalidad de "esto que me esta pasando es malo" a "como puedo volver de esto algo bueno?" es importante si queremos crecer, si queremos aprender - nadie dijo que mereces un camino facil, de hecho la pregunta que tendriamos que hacernos es si realmente el camino facil es lo que necesitamos.
+Cambiar la mentalidad de "esto que me esta pasando es malo" a "como puedo volver de esto algo bueno?" es importante si queremos crecer, nadie dijo que mereces un camino facil, de hecho la pregunta que tendriamos que hacernos es si realmente el camino facil es lo que necesitamos.
 
-Si queremos ser fuertes, resilientes y encontrarnos a nosotros mismos es el camino dificil lo que lo hara posible.
-
-## Reaccion
-
+### Reaccion
 **Saber que no controlamos eventos externos** pero si controlamos **como reaccionamos a ellos** es un pilar de pensamiento que es mas facil escribirlo que seguirlo.
 
-Si queremos encontrar la paz y la fuerza dentro de nosotros mismos es un tema importante que tenemos que dominar, solo tenemos poder sobre nuestra mente, solo podemos controlar nuestra reaccion, y de ahi surge una gama de opciones infinitas que hacen eco en todo lo demas - voy a quejarme, amargarme o ponerme triste? (son reacciones validas).
+Solo tenemos poder sobre nuestra mente, solo podemos controlar nuestra reaccion y de ahi surge una gama de opciones infinitas que hacen eco en todo lo demas - voy a quejarme o voy a mantener la calma y tratar de ver las cosas desde otro punto de vista?
 
-Si en vez de eso mantengo la calma y trato de ver las cosas desde otro punto de vista?, si la segunda funciona creo que puede ser una manera positiva y creativa de enfrentarse a los problemas.
+La segunda puede ser una manera positiva y creativa de enfrentarse a los problemas y definitivamente rendira mas frutos que maldecirle al viento.
 
-Los budistas y los estoicos le llaman a esto la vista desde arriba - entender que por mas compleja que pensemos es nuestra situacion, alrededor de esto la vida pasa, personas yendo al trabajo, personas naciendo, muriendo, amando - la vida pasa y al sentarnos para maldecir nuestra suerte perdemos oportunidades importantes para disfrutarla o buscar maneras creativas de cambiarla.
+Tenemos que entender que por mas compleja que parezca nuestra situacion, alrededor de esto la vida pasa, personas yendo al trabajo, personas naciendo, muriendo, amando - la vida pasa y al sentarnos para maldecir nuestra suerte perdemos oportunidades importantes para disfrutarla o buscar maneras creativas de cambiarla.
 
-## Deseos
+### Deseos
 
-**Aprender a desear menos es riqueza real** en un mundo donde estamos programados desde la cuna a querer cosas (primero la seguridad y el amor de nuestros padres, luego aprobacion, juguetes, etc...) es facil caer en la trampa del status en un sistema economico que se beneficia de esto - aprende a mejorar tu situacion por la situacio misma, buscar independencia, soberania personal como diria Evaristo, lo que sea que eso signifique para ti, pero no caigas en modelos establecidos previamente en donde la solucion es deuda y hacer cosas que no te gustan "por obligacion", el camino es corto y no vale la pena perder el tiempo en cosas que no nos hagan crecer o nos arrastren hacia una "felicidad" efimera que dura tan pronto salga un modelo nuevo.
+**Aprender a desear menos es riqueza real** en un mundo donde estamos programados desde la cuna a querer cosas (primero la seguridad y el amor de nuestros padres, luego aprobacion, juguetes, etc...) es facil caer en la trampa del status en un sistema economico que se beneficia de esto - aprende a mejorar tu situacion por la situacio misma, buscar independencia, soberania personal (lo que sea que eso signifique para ti) pero no caigas en modelos establecidos previamente en donde la solucion es deuda y hacer cosas que no te gustan "por obligacion", el camino es corto y no vale la pena perder el tiempo en cosas que no nos hagan crecer o nos arrastren hacia una "felicidad" efimera que dura tan pronto alguien mas tenga algo mejor.
 
-## Accion
+### Accion
 
-**Tomar accion, dejar la mentalidad de victima que nos hace racionalizar que no podemos hacer nada por nuestra situacion actual** (trabajo, pareja, familia) y nos impide mover nuestra vida en una direccion positiva - cuesta trabajo, juega en contra de la inercia y el status quo, ya que lo mas facil es sentarse a esperar.
+**Tomar accion, dejar la mentalidad de victima que nos hace racionalizar que no podemos hacer nada por nuestra situacion actual** (trabajo, pareja, familia) y nos impide movernos en una direccion positiva - cuesta trabajo, juega en contra de la inercia ya que lo mas facil es sentarse a esperar.
 
-Si esperamos que las cosas caigan mientras nos lamentamos la suerte vamos a entrar en un ciclo negativo de pensamiento que no nos ayudara a avanzar, el paso uno es entender desde que perspectiva estamos mirando las cosas, desde una que nos hara crecer? o desde una que nos mantendra atados a viejas costumbres?.
+Si esperamos que las cosas caigan mientras nos lamentamos la suerte vamos a entrar en un ciclo negativo de pensamiento que no nos ayudara a avanzar, el paso uno es entender desde que perspectiva estamos mirando las cosas.
+
+Desde una que nos hara crecer?
+O desde una que nos mantendra atados a viejas costumbres?.
 
 ### Mas info.
 [The View From Above](https://tricycle.org/magazine/view-above/)
+
 [Modern and classic stoic beliefs to change your perspective](https://medium.com/the-ascent/modern-and-classic-stoic-beliefs-that-change-your-perspective-on-life-dc676132f0f3)
+
 [Shift your perspective to a positive outlook](https://www.masterclass.com/articles/how-to-shift-your-perspective-to-have-a-positive-outlook#how-to-shift-your-perspective-to-have-a-positive-outlook)
