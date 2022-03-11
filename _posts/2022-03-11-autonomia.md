@@ -38,7 +38,10 @@ Son cosas que se van perdiendo con el famoso "exito" determinado por los demas y
 Si bien el destino forma parte de de la ecuacion y hay muchas cosas que no puedes controlar, definitivamente puedes asegurarte que cada decision que tomes dia a dia te acerque mas a tu **autonomia**
 
 ### Mas info.
-[Autonomy](https://ryanholiday.net/autonomy/) 
-[Lifestyle Creep](https://en.wikipedia.org/wiki/Lifestyle_creep) 
-[Shopping, Dopamine and Anticipation](https://www.psychologytoday.com/us/blog/brain-wise/201510/shopping-dopamine-and-anticipation) 
-[Hedonic Treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill) 
+[Autonomy](https://ryanholiday.net/autonomy/)
+
+[Lifestyle Creep](https://en.wikipedia.org/wiki/Lifestyle_creep)
+
+[Shopping, Dopamine and Anticipation](https://www.psychologytoday.com/us/blog/brain-wise/201510/shopping-dopamine-and-anticipation)
+
+[Hedonic Treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill)
