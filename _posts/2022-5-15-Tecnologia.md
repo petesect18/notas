@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tecnologia"
-date:   2022-05-19 06:45:00 -0500
+date:   2022-05-19 12:00:00 -0500
 categories: thoughts
 comments: true
 ---
