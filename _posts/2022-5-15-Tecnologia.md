@@ -9,11 +9,11 @@ comments: true
 ### Cambios
 La cuarta revolucion industrial, una era de alogritmos que te conocen mejor de lo que tu te conoces a ti mismo, donde el conocimiento del mundo a traves de Wikipedia esta en la palma de tus manos y cada dia que pasa trabajas con maquinas y personas ya sea en una oficina o en 10 diferentes paises.
 
-Estamos viendo un cambio estructural en nuestra economia tambien que se ha venido dando los ultimos 25 años en donde solo las personas que sean capaces de trabajar a la par con las maquinas o las utilicen para crear cosas tendran ventaja.
+Estamos viendo un cambio estructural en nuestra economia que se ha venido dando los ultimos 25 años en donde solo las personas que sean capaces de trabajar a la par con las maquinas o las utilicen para crear cosas tendran ventaja.
 
 La unica manera de producir valor en este sistema capitalista, que para bien o para mal es en el que todos vivimos es aumentar el valor intrinseco de la tecnologia, aun asi sea un poco.
 
-Esa combinacion de conocimiento tecnico para resolver problemas en la vida real sera clave, cualquier persona que entienda como usar las computadoras para mercadear un producto y administrar tareas, cualquier persona que pueda usar un lenguaje de programacion para crear un producto que resuelva una necesidad, cualquier persona que utilice las plataformas de comunicacion para crear contenido e ideas que valgan la pena para una audiencia (aunque sea contenido "basura"), llevaran la ventaja sobre los que no tengan esa habilidad.
+Esa combinacion de conocimiento tecnico para resolver problemas en la vida real sera clave aun mas en el futuro, cualquier persona que entienda como usar las computadoras para mercadear un producto y administrar tareas, cualquier persona que pueda usar un lenguaje de programacion para crear un producto que resuelva una necesidad, cualquier persona que utilice las plataformas de comunicacion para crear contenido e ideas que valgan la pena para una audiencia (aunque sea contenido "basura"), llevaran la ventaja sobre los que no tengan esa habilidad.
 
 Desde mi punto de vista, la tecnologia es el gran nivelador porque ya no necesitas una gran infraestructura y presupuesto de mercadeo para vender tus productos, ni gran capital con lineas de produccion y empleados para crearlos, la sociedad esta utilizando medios de comunicacion alternos que si bien gracias a Big Tech se ha monopolizado bastante, aun hay un espacio para que personas con gustos similares compartan ideas y opiniones.
 
