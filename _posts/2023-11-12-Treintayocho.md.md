@@ -103,8 +103,13 @@ Acostúmbrate a recibir poco crédito cuando las cosas salen bien y a tomar toda
 Acepta lo natural y lo inevitable, ama que las cosas pasen como pasaron, lo bueno, lo malo y lo feo. Todo es parte de esta amalgama natural de emociones y vivencias.
 ### No estás aquí para consumir
 Estás aquí para crear.
-### Arranca
-Termina y aprende.
+### Preguntas importantes
+- ¿Emputarme hace mejor la situación?
+- ¿Por qué me importa tanto lo que piensen?
+- ¿Qué pasa si digo que no?
+- ¿Es esto necesario?
+- ¿Cómo esto me puede hacer más fuerte?
+- ¿Qué cosas tengo que soltar?
 ### Para ser bueno en algo
 Quédate en el bus.
 ### Memento Mori
