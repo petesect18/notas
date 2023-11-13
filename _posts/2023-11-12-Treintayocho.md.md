@@ -6,9 +6,7 @@ categories: thoughts
 comments: true
 ---
 
-# 38 Cosas
-
-![Control](https://petesect18.github.io/notas/assets/38.jpg)
+![38](https://petesect18.github.io/notas/assets/38.jpg)
 >38 years... 
 
 El tiempo pasa y tiene la capacidad de hacerte más sabio si decides usar las experiencias como cosas útiles para ti. Aquí un compendio de 38 cosas en mi camino a los 38 años.
