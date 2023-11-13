@@ -33,7 +33,7 @@ Cuestiona todo, hazte preguntas, no aceptes algo porque sí, en un mundo de infl
 
 Si no tienes claro qué es lo importante para ti, alguien más va a decidir por ti.
 #### Riqueza
-Cuerpo sano, mente clara y una casa llena de amor.
+Cuerpo sano, mente en calma y una casa llena de amor.
 #### Lo que se pone en el camino, se convierte en el camino
 El obstáculo, esa piedra que decidimos bordear, es la que nos muestra el verdadero camino.
 #### Cuidado con quién subes al barco 
