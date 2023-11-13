@@ -11,7 +11,7 @@ comments: true
 
 El tiempo pasa y tiene la capacidad de hacerte más sabio si decides usar las experiencias como cosas útiles para ti. Aquí un compendio de 38 cosas en mi camino a los 38 años.
 
-### Todo es Gasolina
+#### Todo es Gasolina
 Cualquier cosa que te ocurra es gasolina para crear, por más que creas que no puedes sacar nada bueno de una situación mala.
 ### Nada es para Siempre [Impermanencia]
 Todo cambia, nada es para siempre, desde nuestros pensamientos, ideas, creencias hasta las células en nuestro cuerpo, nos frustramos cuando las cosas cambian porque la permanencia da una falsa sensación de seguridad.   
