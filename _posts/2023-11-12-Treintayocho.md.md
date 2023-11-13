@@ -14,13 +14,12 @@ El tiempo pasa y tiene la capacidad de hacerte más sabio si decides usar las ex
 ### Todo es Gasolina
 Cualquier cosa que te ocurra es gasolina para crear, por más que creas que no puedes sacar nada bueno de una situación mala.
 ### Nada es para Siempre [Impermanencia]
-Todo cambia, nada es para siempre, desde nuestros pensamientos, ideas, creencias hasta las células en nuestro cuerpo. Nos frustramos cuando las cosas cambian porque la permanencia da una falsa sensación de seguridad. 
+Todo cambia, nada es para siempre, desde nuestros pensamientos, ideas, creencias hasta las células en nuestro cuerpo, nos frustramos cuando las cosas cambian porque la permanencia da una falsa sensación de seguridad.   
 La verdad es que lo único constante es el cambio, para 'bien' o para 'mal'.
 ### La calidad de tu vida es igual a la calidad de tus pensamientos
-Tenemos que vivir la vida como si todo estuviera 'seteado' a nuestro favor. 
-Si somos optimistas, veremos oportunidades que el pesimista no ve.
+Tenemos que vivir la vida como si todo estuviera 'seteado' a nuestro favor, si somos optimistas, veremos oportunidades que el pesimista no ve.
 ### Las cosas son como son, no como quieres que sean
-Por otro lado, en el balance de las cosas, sé pragmático y realista. 
+Por otro lado, en el balance de las cosas, sé pragmático y realista.  
 Está claro que no vas a ser una estrella de rock, pero sí te puedes divertir tocando música en vivo.
 ### Toma perspectiva, no te involucres mucho en un problema
 'Sometimes you get too close to see', como diría Strung Out, la solución del problema no está en el problema.
@@ -64,16 +63,13 @@ Eres tú mismo. Las ideas falsas sobre ti te destruirán.
 ### Cría a tus hijos 
 Para que los impresione la lealtad, el amor, la humildad y no por la riqueza, el poder y las posesiones.
 ### El caballo y el jinete.
-El caballo es nuestra naturaleza emocional.. tiene energía y poder, pero sin un jinete no tiene guía, es salvaje y siempre metiéndose en problemas. 
-El jinete es nuestra naturaleza pensante... Con entrenamiento y práctica, lleva las riendas y guía el caballo, transformando ese poder animal en algo productivo. 
-
+El caballo es nuestra naturaleza emocional.. tiene energía y poder, pero sin un jinete no tiene guía, es salvaje y siempre metiéndose en problemas.  
+El jinete es nuestra naturaleza pensante... Con entrenamiento y práctica, lleva las riendas y guía el caballo, transformando ese poder animal en algo productivo.   
 Uno sin el otro son inútiles.
 ### La Ira
-Una vez un monje se fue a meditar a mitad de un lago, cuando habían pasado horas y estaba en pleno estado de concentración, una barca choca con la suya. 
-Desconcentrado por el golpe y el ruido, siente una ira inmensa y cuando abre los ojos para mandar al carajo al torpe pescador, se da cuenta de que la barca estaba vacía...
-
-En ese momento se da cuenta de que la ira vive dentro de él, solo necesita un objeto externo que lo provoque. 
-
+Una vez un monje se fue a meditar a mitad de un lago, cuando habían pasado horas y estaba en pleno estado de concentración, una barca choca con la suya.   
+Desconcentrado por el golpe y el ruido, siente una ira inmensa y cuando abre los ojos para mandar al carajo al torpe pescador, se da cuenta de que la barca estaba vacía...  
+En ese momento se da cuenta de que la ira vive dentro de él, solo necesita un objeto externo que lo provoque.   
 La ira está dentro de nosotros, la otra persona es solamente una barca vacía, por ende, se puede controlar.
 ### Si escuchas que una persona habló mal de ti
 La mejor manera de responder es "Qué raro que solo mencionó esas fallas". Somos seres imperfectos y siempre vamos a estar sujetos a críticas.
